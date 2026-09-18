@@ -52,6 +52,10 @@ python check-assets.py
 
 ## Cocos 使用约定
 
+`runtime/` 是已导出的手机用版本，使用预着色材质、512/1024 像素 JPEG、Y=0 落地点与米制尺寸。赛车外轮廓宽 2.16 米、长 2.9 米；其他尺寸见 `runtime/manifest.json`。原始 GLB 保留不变。重新导出运行 `python build-mobile.py`（需要 Pillow），脚本同时检查地面原点和整包 5 MiB 上限。
+
+`runtime/road-profiles.json` 从原始路肩/护栏 GLB 提取几何，供曲线赛道按共享碰撞边界缩放、合批；实际道路使用 `runtime/asphalt.jpg`。生成后的运行文件可直接被其他项目取用，无需 Python。
+
 - Cocos Creator 3.8 支持 GLB/glTF 导入，生成网格、材质与 Prefab；无需更换引擎。参见 [Cocos 模型资源文档](https://docs.cocos.com/creator/3.8/manual/zh/asset/model/mesh.html)。
 - Hyper3D 原始模型坐标是归一化空间，不是实际米制尺寸。先根据 `validation.json` 的包围盒设统一比例和落地点，再校准赛车前向为游戏的 +Z。建议赛车总长约 2.7 米、棕榈树高 6 米、阔叶树高 5 米、灯塔高 10 米、礁石宽 4 米。
 - 赛车目前是车身、车轮和驾驶员合并的静态视觉网格，没有骨骼或动画。若需要车轮转动/转向，应先拆分网格并校准各轮轴心，不能把现有文件当作已绑定车辆。

@@ -1,0 +1,119 @@
+{
+  "models": [
+    {
+      "file": "kart.glb",
+      "source": "kart/base_basic_shaded.glb",
+      "sourceSha256": "d10148a009cff5ba69dc3b8cb153bb728748bff8cc5cae175e53cd0b601d768c",
+      "sha256": "3e98be1163ca3fada74f7cb98862f04115a9d03cd538412ef37693d158758edb",
+      "bytes": 1092788,
+      "texture": [
+        1024,
+        1024
+      ],
+      "bounds": [
+        [
+          -1.08,
+          0.0,
+          -1.45
+        ],
+        [
+          1.08,
+          1.7632780936866914,
+          1.45
+        ]
+      ]
+    },
+    {
+      "file": "palm.glb",
+      "source": "palm/base_basic_shaded.glb",
+      "sourceSha256": "65e3dc211715530d67b85c559d7bf3886765ce51cafa997f900565bea0486ca7",
+      "sha256": "1f82cfd83c329c73e24239d2da1455bea86f8309a74febf703b81ce7c97f5f2b",
+      "bytes": 1119980,
+      "texture": [
+        512,
+        512
+      ],
+      "bounds": [
+        [
+          -2.8572038365255805,
+          0.0,
+          -2.7814132113716967
+        ],
+        [
+          2.8572038365255805,
+          8.0,
+          2.7814132113716967
+        ]
+      ]
+    },
+    {
+      "file": "broadleaf.glb",
+      "source": "broadleaf/base_basic_shaded.glb",
+      "sourceSha256": "7065e215f09b1b6f9d847957c2f91318d6b51b150ac2e672e1afa7bfaed4a5fa",
+      "sha256": "f6c3e7fc4bb1935245aa5be7e5ee429a0882a5ce1f3b30757bebc3242613d9f0",
+      "bytes": 701420,
+      "texture": [
+        512,
+        512
+      ],
+      "bounds": [
+        [
+          -4.1409431730712845,
+          0.0,
+          -3.0759113746039866
+        ],
+        [
+          4.1409431730712845,
+          7.000000000000001,
+          3.0759113746039866
+        ]
+      ]
+    },
+    {
+      "file": "lighthouse.glb",
+      "source": "lighthouse/base_basic_shaded.glb",
+      "sourceSha256": "b1587d1fd179cdf4c29f0ed7c359d30de2408137d1dfe4a9300ec309e987fbb6",
+      "sha256": "bf7b2102fae3ccff7895aeaae3058831efe9e37e01a9fbad2aaa87764b0474da",
+      "bytes": 621940,
+      "texture": [
+        1024,
+        1024
+      ],
+      "bounds": [
+        [
+          -4.288026146664415,
+          0.0,
+          -4.359529100175371
+        ],
+        [
+          4.288026146664415,
+          24.0,
+          4.359529100175371
+        ]
+      ]
+    },
+    {
+      "file": "coastal-rocks.glb",
+      "source": "coastal-rocks/base_basic_shaded.glb",
+      "sourceSha256": "54e9b5b7bc9a2be4b1b751a0b58a61b47e1b32ca1e4201d4ccd95dd960f38d03",
+      "sha256": "3533a4e785fd27fd98f799f34a6b654d53a52780e0d6e769e6bb83a340598678",
+      "bytes": 374140,
+      "texture": [
+        512,
+        512
+      ],
+      "bounds": [
+        [
+          -2.0,
+          0.0,
+          -1.8596109581021567
+        ],
+        [
+          2.0,
+          2.2396019809073944,
+          1.8596109581021567
+        ]
+      ]
+    }
+  ]
+}

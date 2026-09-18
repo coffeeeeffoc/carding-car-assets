@@ -61,7 +61,7 @@ def inspect(path):
 
 
 if __name__ == '__main__':
-    results = [inspect(p) for p in sorted(ROOT.rglob('*.glb'))]
+    results = [inspect(p) for p in sorted(ROOT.rglob('*.glb')) if 'runtime' not in p.relative_to(ROOT).parts]
     assert len(results) == 13, 'Expected five PBR/shaded pairs plus three road modules'
     road = next(r for r in results if 'road-straight' in r['file'])
     assert abs(road['bounds'][1][2]-road['bounds'][0][2]-8) < .001
