@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>海湾卡丁车 · 素材预览</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#e8eee9;color:#183c43;font:15px system-ui,sans-serif}header{display:flex;align-items:center;gap:24px;padding:24px 32px}h1{font-size:25px;margin:0}header p{margin:5px 0;color:#607677}select{margin-left:auto;padding:10px;border:1px solid #b3c8c3;border-radius:8px;background:white}main{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;padding:0 32px 32px}.card{background:#f8faf6;border:1px solid #d0ddd7;border-radius:14px;overflow:hidden}.view{height:285px;touch-action:none}.view canvas{display:block;width:100%;height:100%}.caption{padding:14px 18px;border-top:1px solid #dce5df}.caption b{font-size:17px}.caption small{display:block;color:#607677;margin-top:5px}.error{padding:20px;color:#a83224}a{color:inherit}@media(max-width:850px){main{grid-template-columns:repeat(2,1fr);padding:0 16px 16px}header{padding:20px 16px}.view{height:250px}}@media(max-width:450px){main{grid-template-columns:1fr}}
+</style>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+<header><div><h1>海湾卡丁车 · 素材预览</h1><p>真实 GLB 模型 · 拖动旋转 / 滚轮缩放 · <a href="concept.png">整体效果图</a></p></div><select aria-label="模型材质版本"><option value="pbr">PBR 光照材质</option><option value="shaded">预着色源材质</option></select></header>
+<main></main>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
+const assets=[['kart','橙白主角赛车'],['palm','海湾棕榈树'],['broadleaf','海岸阔叶树'],['lighthouse','海湾灯塔'],['coastal-rocks','海岸礁石'],['road/road-straight-14x8.glb','14 米赛道模块'],['road/kerb-4m.glb','红白路肩'],['road/barrier-4m.glb','红白护栏']];
+window.assetReview={loaded:0,errors:[],models:[]};
+const variant=new URLSearchParams(location.search).get('variant')==='shaded'?'shaded':'pbr';
+const select=document.querySelector('select');select.value=variant;
+select.addEventListener('change',()=>{location.search='variant='+select.value});
+for(const [id,title] of assets){
+  const card=document.createElement('section');card.className='card';
+  const view=document.createElement('div');view.className='view';
+  const caption=document.createElement('div');caption.className='caption';caption.innerHTML='<b>'+title+'</b><small>加载中…</small>';
+  card.append(view,caption);document.querySelector('main').append(card);
+  const renderer=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});
+  renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.setSize(view.clientWidth,view.clientHeight);
+  renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=.9;view.append(renderer.domElement);
+  const scene=new THREE.Scene();scene.background=new THREE.Color('#f0f4ed');
+  const pmrem=new THREE.PMREMGenerator(renderer);const room=new RoomEnvironment();const env=pmrem.fromScene(room);scene.environment=env.texture;room.dispose();pmrem.dispose();
+  scene.environmentIntensity=.65;scene.add(new THREE.HemisphereLight(0xdff4ff,0xb1a28b,.7));const sun=new THREE.DirectionalLight(0xffefd5,1.5);sun.position.set(3,6,5);scene.add(sun);
+  const camera=new THREE.PerspectiveCamera(35,view.clientWidth/view.clientHeight,.01,1000);
+  const controls=new OrbitControls(camera,renderer.domElement);controls.enableDamping=false;
+  const draw=()=>renderer.render(scene,camera);controls.addEventListener('change',draw);
+  new ResizeObserver(()=>{camera.aspect=view.clientWidth/view.clientHeight;camera.updateProjectionMatrix();renderer.setSize(view.clientWidth,view.clientHeight);draw()}).observe(view);
+  const path=id.endsWith('.glb')?id:id+'/base_basic_'+variant+'.glb';
+  try{
+    const gltf=await new GLTFLoader().loadAsync(path);const model=gltf.scene;scene.add(model);
+    const bounds=new THREE.Box3().setFromObject(model),size=bounds.getSize(new THREE.Vector3()),center=bounds.getCenter(new THREE.Vector3());
+    model.position.sub(center);const max=Math.max(size.x,size.y,size.z);model.scale.multiplyScalar(2.6/max);model.position.multiplyScalar(2.6/max);
+    camera.position.set(id.startsWith('road/')?3.8:3.2,id.startsWith('road/')?4:2.1,4.5);camera.lookAt(0,0,0);controls.update();
+    let triangles=0,meshes=0;model.traverse(n=>{if(n.isMesh){meshes++;triangles+=(n.geometry.index?.count??n.geometry.attributes.position.count)/3}});
+    caption.querySelector('small').textContent=triangles.toLocaleString()+' 三角面 · '+meshes+' 网格';
+    window.assetReview.models.push({id,triangles,meshes,size:size.toArray()});draw();window.assetReview.loaded++;
+  }catch(e){caption.querySelector('small').textContent='模型加载失败';window.assetReview.errors.push({id,message:String(e)});console.error(e)}
+}
+</script>
+</html>

@@ -1,0 +1,204 @@
+{
+  "collection": "carding-car / seaside-v2",
+  "created": "2026-09-18",
+  "concept": {
+    "path": "concept.png",
+    "tool": "image_gen",
+    "prompt": "Use case: stylized-concept.\nAsset type: high-end art direction target image for an existing landscape mobile 3D kart racing game, one wide 16:9 image, 2560x1440 if possible.\nCreate a beautiful cohesive premium stylized 3D seaside kart racing environment, as an achievable polished game art target. This is a full gameplay environment composition, not a poster or collage. Player's elevated third-person chase camera about 4 metres high and 8 metres behind a compact orange-and-ivory open-wheel racing kart with one orange-helmeted driver; see rear and right quarter of kart, centered lower middle at modest game scale, occupying about 18 percent of image width. Exactly four chunky black tires, clear ivory central racing stripe, dark visor, brushed metal hubs, glossy enamel body shell, visible rear bumper, a tasteful small exhaust and rear mechanical details. Original design, no franchise characters, no logos.\nTrack: readable broad gently curving coastal asphalt road sweeping right into the middle distance, charcoal blue fine-grained asphalt, ivory edge lines, red and ivory low kerbs, a few subtle tire scuffs, accurately solid barriers with beveled red and cream modular sections. Show a little warm sand and short lush grass between road and coast. Tiny opposing racers farther ahead only.\nEnvironment: two elegant coconut palms with broad sculpted green fronds in near-mid ground; rounded broadleaf seaside trees with several organic interlocking crowns farther inland; layered pale sandstone coastal boulders with grass tufts; vivid shallow turquoise water fading into cobalt bay; a distant compact ivory cylindrical lighthouse with coral cap and teal trim on a rocky islet, small marina sails; one tasteful cream/coral race pavilion far to the side. A few triangular pennant flags, track chevrons and warm yellow route lights, composed carefully so gameplay road stays uncluttered. White puffy summer clouds, soft blue atmospheric depth, beautiful late-afternoon sunlight, soft contact shadows and warm bounce light, clean and fresh, neither glaring nor washed out.\nArt style: sophisticated stylized 3D game art, soft bevels and intentional geometry, subtle physically based material variation, toy-like proportions but believable materials. Rich well-composed tropical scenery, elegant complementary orange/teal color design. Crisp kart and road details; no excessive bloom, no lens flares, no giant speed trails. Landscape view fills the entire canvas, no UI, no text, no title, no watermark, no panels, no diagram. Make the whole scene cohesive and polished, with the track strongly legible. The image is a target concept, not an existing gameplay screenshot."
+  },
+  "references": [
+    {
+      "path": "kart-reference.png",
+      "prompt": "Use case: stylized-concept. Asset type: a single isolated 3D modeling reference for the hero kart in the supplied seaside concept. Use the supplied image only as style and vehicle design reference. Make ONE complete orange and ivory open-wheel racing kart with its seated helmeted driver, at rest on a perfectly plain light neutral gray studio background, front three-quarter view slightly above axle height. Entire model visible with generous margins, large in frame, no crop. Exactly FOUR wide black rubber tires, left and right symmetric chassis, glossy orange sculpted bodywork, ivory central stripe, warm ivory seat surround, dark navy side accents, exposed silver chassis tubing and brushed metal wheel hubs, realistic but simplified rear engine/exhaust. Friendly compact proportions, driver wearing orange full-face helmet with a broad ivory center stripe and dark visor, orange gloves gripping steering wheel, feet in cockpit. Sophisticated stylized 3D game art, refined bevels, clean material variation, subtle rubber tread, excellent surfaces. Cohesive with reference image's sunny coastal racing design, but neutral even studio lighting for reconstruction, no dramatic baked shadows. No lettering, no numbers, no logos, no scenery, no road, no smoke, no speed streaks, no platform, no turntable sheet, no multiple views or extra vehicles. This reference will be converted to a real GLB model by Hyper3D."
+    },
+    {
+      "path": "asphalt-basecolor.png",
+      "prompt": "Use case: stylized-concept. Asset type: a square 2048x2048 seamless base color texture for the asphalt of a premium stylized mobile seaside kart racing game. Entire image is ONLY a perfectly flat top-down orthographic view of finely grained charcoal blue-gray asphalt. Small restrained aggregate grains at consistent scale, subtle natural color mottling, very slight wear, physically believable but clean stylized art direction. Uniform neutral illumination, no directional lighting, no shadows, no ambient occlusion. Perfectly tileable seamlessly on all four sides, spatially uniform detail, no obvious repeating landmarks. Avoid large blotches, cracks, tire tracks, lane markings, paint, borders, perspective, kerbs, objects, text, gradients or vignette. Medium dark slate charcoal color suitable beneath a bright orange kart, approximate average base sRGB #465563. This is a game material texture, not a picture of a road scene."
+    }
+  ],
+  "assets": [
+    {
+      "id": "kart",
+      "name": "橙白主角赛车",
+      "generator": "Hyper3D Rodin Gen-2.5-High",
+      "meshMode": "Raw",
+      "requestedPolygonCount": 12000,
+      "prompt": "One complete premium stylized orange-and-ivory open-wheel racing kart with seated helmeted driver, closely follow supplied reference. Exactly four wide black tires, symmetrical chassis, orange body shell with ivory centre stripe, navy accents, brushed metal wheel hubs, visible frame and rear engine. Driver helmet orange with ivory stripe and dark visor. Sophisticated toy-like seaside racing style, refined bevels, clean detailed materials. Reconstruct the complete rear and underside too. Only kart and driver, no floor, platform, shadows, scenery or text. This is a real-time game visual mesh.",
+      "reference": "kart-reference.png",
+      "generation_id": "38cf88d3-0de6-4675-a6b3-8da88b9f6a0e",
+      "status": "completed",
+      "display_url": "https://hyper3d.ai/workspace/rodin/38cf88d3-0de6-4675-a6b3-8da88b9f6a0e",
+      "files": [
+        {
+          "name": "base_basic_pbr.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "kart/base_basic_pbr.glb"
+        },
+        {
+          "name": "base_basic_shaded.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "kart/base_basic_shaded.glb"
+        }
+      ]
+    },
+    {
+      "id": "palm",
+      "name": "海湾棕榈树",
+      "generator": "Hyper3D Rodin Gen-2.5-High",
+      "meshMode": "Raw",
+      "requestedPolygonCount": 12000,
+      "prompt": "Reconstruct exactly the single coconut palm tree in the reference image as an isolated textured 3D game asset. Preserve the elegant curved slender bark trunk and detailed long arched green fronds, trunk ending at its natural root flare. Sophisticated stylized-realistic coastal racing art, rich green leaves and tan bark. No terrain, no pedestal, no pot, no ground, no diorama or secondary objects. Full detailed crown visible from all sides. Ignore the image background completely.",
+      "reference": "palm/reference.png",
+      "referencePrompt": "Create a single isolated high-quality 3D modeling reference image for ONE elegant tropical coconut palm tree, matching the sophisticated stylized realism of the supplied seaside kart racing concept. Fully visible crown and trunk, tree fills canvas with safe margin. Neutral light gray studio background. A slender naturally curved tan trunk with subtle layered bark, approximately 6 metres high, beautiful crown of 12 long arched compound palm fronds with convincing broad individual leaflets and graceful silhouettes, rich emerald and olive green foliage, coconut cluster below crown. Organic refined sculpted geometry, detailed materials, excellent shape language, premium current-gen stylized racing game asset. The trunk ends at its own small root flare and NOTHING below it. Absolutely no base, no pedestal, no ground tile, no sand disk, no rocks, no grass tufts, no mini trees, no additional objects, no diorama. One adult tree only. NOT low-poly, NOT angular faceted leaves, NOT chunky banana leaves, NOT clay toy. Soft neutral evenly lit studio render, minimal contact shadow only, no harsh highlights or cinematic baked shadows. No text, labels, multiple views or logos.",
+      "generation_id": "ab3ae1c5-0338-4a6e-a3e5-bd4236844040",
+      "status": "completed",
+      "display_url": "https://hyper3d.ai/workspace/rodin/ab3ae1c5-0338-4a6e-a3e5-bd4236844040",
+      "files": [
+        {
+          "name": "base_basic_pbr.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "palm/base_basic_pbr.glb"
+        },
+        {
+          "name": "base_basic_shaded.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "palm/base_basic_shaded.glb"
+        }
+      ],
+      "supersededAttempt": {
+        "generation_id": "3ae1de32-f3d0-4227-9523-153105230641",
+        "status": "completed",
+        "display_url": "https://hyper3d.ai/workspace/rodin/3ae1de32-f3d0-4227-9523-153105230641",
+        "reason": "Rejected after actual GLB review: faceted toy/diorama style and unwanted plinth; superseded by image-guided generation.",
+        "prompt": "Premium stylized mobile racing game prop, sunny Mediterranean seaside art direction: soft bevels, believable toy-like forms, subtle textured materials, warm ivory, coral, teal, olive green. One isolated object; no text, logo, plinth, background or floor.ONE complete coconut palm tree, gently curved slender textured warm tan trunk, clear stacked bark rings, crown of 9 broad gracefully arched green palm fronds. Fronds are thick stylized sculpted shapes with restrained serrated edges, not thousands of hairlike strands, clean opaque leaf silhouettes suitable for mobile games. Small cluster of three coconuts under crown. Full trunk reaches ground with subtly flared base. About 6 metres tall in intended scale. No surrounding terrain, grass, pots or other trees. Preserve elegant asymmetric silhouette."
+      }
+    },
+    {
+      "id": "broadleaf",
+      "name": "海岸阔叶树",
+      "generator": "Hyper3D Rodin Gen-2.5-High",
+      "meshMode": "Raw",
+      "requestedPolygonCount": 10000,
+      "prompt": "Reconstruct exactly the single mature coastal broadleaf tree in the image as an isolated textured 3D game asset. Preserve the organic branching bark trunk, layered umbrella canopy of detailed small dark green and olive leaves, airy gaps and natural root flare. Sophisticated stylized-realistic coastal racing art. NOT polygon balls or faceted leaf blobs. No terrain, pedestal, square base, pot, ground or secondary objects. Ignore the image background completely.",
+      "reference": "broadleaf/reference.png",
+      "referencePrompt": "Use case: stylized-concept. Asset type: a single isolated high-quality 3D modeling reference matching the sophisticated stylized realism of the supplied seaside kart racing concept. Subject: ONE mature coastal broadleaf tree, naturally forked warm brown trunk and graceful exposed main branches, broad umbrella-shaped canopy with layered clusters of small convincingly sculpted dark emerald and olive green leaves, naturally uneven crown edge with restrained leaf detail and airy gaps, root flare only at bottom. Approximately 5m tall. NOT a tree made of balls, cones, crystals or geometric chunks. Entire object fully visible, large in canvas, generous safe margins, neutral gray seamless studio background, front three-quarter view. Premium contemporary stylized racing game asset, elegant sophisticated shapes, detailed believable material, crisp geometry and textures. Soft neutral even illumination for 3D reconstruction, minimal contact shadow. Absolutely NO separate base, pedestal, ground slab, sand disk, terrain tile, extra trees, houses, props or diorama. Object itself only. Not low-poly, not angular faceted cartoon, not clay toy, not crude geometry. No text, labels, multiple views, logos or framing.",
+      "generation_id": "cde91d3f-1e40-4ddc-86bd-37a29eb4d57d",
+      "status": "completed",
+      "display_url": "https://hyper3d.ai/workspace/rodin/cde91d3f-1e40-4ddc-86bd-37a29eb4d57d",
+      "files": [
+        {
+          "name": "base_basic_pbr.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "broadleaf/base_basic_pbr.glb"
+        },
+        {
+          "name": "base_basic_shaded.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "broadleaf/base_basic_shaded.glb"
+        }
+      ],
+      "supersededAttempt": {
+        "generation_id": "e57692bb-efec-40e8-9855-0468eafdbfb2",
+        "status": "completed",
+        "display_url": "https://hyper3d.ai/workspace/rodin/e57692bb-efec-40e8-9855-0468eafdbfb2",
+        "reason": "Rejected after actual GLB review: faceted toy/diorama style and unwanted plinth; superseded by image-guided generation.",
+        "prompt": "Premium stylized mobile racing game prop, sunny Mediterranean seaside art direction: soft bevels, believable toy-like forms, subtle textured materials, warm ivory, coral, teal, olive green. One isolated object; no text, logo, plinth, background or floor.ONE mature stylized coastal broadleaf tree. Short attractive warm brown forked trunk with 3 visible main branches, broad rounded asymmetric umbrella canopy formed from 7 interlocking organic masses of sculpted clustered foliage, clear small-scale leaf texture without individual leaf cards. Rich olive, jade and deep emerald greens with sunlit yellow-green tips, not spherical balls or geometric cones. Compact roots at ground level. About 5 metres tall, canopy 5 metres wide. Solid opaque geometry for mobile racing scenery. No surrounding terrain or additional trees."
+      }
+    },
+    {
+      "id": "lighthouse",
+      "name": "海湾灯塔",
+      "generator": "Hyper3D Rodin Gen-2.5-High",
+      "meshMode": "Raw",
+      "requestedPolygonCount": 8000,
+      "prompt": "Reconstruct exactly the isolated elegant lighthouse in this image. Tapered ivory stucco tower, coral cap, glass lantern, dark navy frames, teal balcony railings, arched teal door and small windows, narrow sandstone footing. Preserve refined detailed geometry and beautiful material texture. Sophisticated stylized-realistic Mediterranean coastal racing game asset. No pedestal, surrounding terrain, ground slab, scenery or extra trees. Only the lighthouse building itself; ignore background.",
+      "reference": "lighthouse/reference.png",
+      "referencePrompt": "Use case: stylized-concept. Asset type: a single isolated high-quality 3D modeling reference matching the sophisticated stylized realism of the supplied seaside kart racing concept. Subject: ONE elegant coastal lighthouse, a tapering cylindrical ivory plaster tower approximately 10m high, precisely shaped coral-red conical cap, detailed glazed lantern room with dark navy frames, narrow teal iron balcony and balustrade, small arched teal entry door and restrained narrow windows, subtle plaster patina and sandstone rim at the foot of the tower. Beautiful refined Mediterranean architecture. The lighthouse ends directly at its own circular footing, no island or landscape. Entire object fully visible, large in canvas, generous safe margins, neutral gray seamless studio background, front three-quarter view. Premium contemporary stylized racing game asset, elegant sophisticated shapes, detailed believable material, crisp geometry and textures. Soft neutral even illumination for 3D reconstruction, minimal contact shadow. Absolutely NO separate base, pedestal, ground slab, sand disk, terrain tile, extra trees, houses, props or diorama. Object itself only. Not low-poly, not angular faceted cartoon, not clay toy, not crude geometry. No text, labels, multiple views, logos or framing.",
+      "generation_id": "e3a8626f-ac8e-4c4a-b8df-5b14d65da40b",
+      "status": "completed",
+      "display_url": "https://hyper3d.ai/workspace/rodin/e3a8626f-ac8e-4c4a-b8df-5b14d65da40b",
+      "files": [
+        {
+          "name": "base_basic_pbr.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "lighthouse/base_basic_pbr.glb"
+        },
+        {
+          "name": "base_basic_shaded.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "lighthouse/base_basic_shaded.glb"
+        },
+        {
+          "name": "texture_emissive.png",
+          "role": "texture",
+          "mime_type": "image/png",
+          "path": "lighthouse/texture_emissive.png"
+        }
+      ],
+      "supersededAttempt": {
+        "generation_id": "6bf50619-5ae0-4612-95c0-9c5027567c1f",
+        "status": "completed",
+        "display_url": "https://hyper3d.ai/workspace/rodin/6bf50619-5ae0-4612-95c0-9c5027567c1f",
+        "reason": "Rejected after actual GLB review: faceted toy/diorama style and unwanted plinth; superseded by image-guided generation.",
+        "prompt": "Premium stylized mobile racing game prop, sunny Mediterranean seaside art direction: soft bevels, believable toy-like forms, subtle textured materials, warm ivory, coral, teal, olive green. One isolated object; no text, logo, plinth, background or floor.ONE elegant small coastal lighthouse building, round slightly tapering warm ivory stucco tower, coral-orange conical roof above a glass lantern room with dark navy framing, a teal circular balcony railing. Restrained sandstone footing, small arched teal door, three small vertically spaced rectangular windows, subtle plaster surface detail, metal trim. Cheerful premium stylized architecture, approximately 10 metres tall. Simple isolated lighthouse including only narrow footing, not an entire rocky island, not a diorama. Clear clean symmetry and appealing proportions."
+      }
+    },
+    {
+      "id": "coastal-rocks",
+      "name": "海岸礁石装饰",
+      "generator": "Hyper3D Rodin Gen-2.5-High",
+      "meshMode": "Raw",
+      "requestedPolygonCount": 6000,
+      "prompt": "Reconstruct exactly the isolated natural sandstone boulder cluster in this image. Preserve three interlocking weathered warm pale sandstone rocks with organic rounded angular forms, detailed strata, subtle mineral textures, small moss patches and restrained grass in crevices. Sophisticated stylized-realistic coastal racing game asset. No terrain slab, ground plane, pedestal, extra objects or diorama. Ignore image background. Broad natural rock shapes, not geometric crystals.",
+      "reference": "coastal-rocks/reference.png",
+      "referencePrompt": "Use case: stylized-concept. Asset type: a single isolated high-quality 3D modeling reference matching the sophisticated stylized realism of the supplied seaside kart racing concept. Subject: ONE reusable compact coastal formation of three interlocking natural pale warm sandstone boulders, one larger tilted boulder and two lower ones, naturally rounded angular contours, weathered layers and beautiful restrained mineral surface texture, small moss patches and two unobtrusive grass tufts within crevices only. About 4m wide and 2m tall. Broad sculpted forms with organic irregularity. No crystals, no geometric pyramids, no gemstones. Entire object fully visible, large in canvas, generous safe margins, neutral gray seamless studio background, front three-quarter view. Premium contemporary stylized racing game asset, elegant sophisticated shapes, detailed believable material, crisp geometry and textures. Soft neutral even illumination for 3D reconstruction, minimal contact shadow. Absolutely NO separate base, pedestal, ground slab, sand disk, terrain tile, extra trees, houses, props or diorama. Object itself only. Not low-poly, not angular faceted cartoon, not clay toy, not crude geometry. No text, labels, multiple views, logos or framing.",
+      "generation_id": "20ad7b83-ed39-47dd-af0b-f47ef88c80ef",
+      "status": "completed",
+      "display_url": "https://hyper3d.ai/workspace/rodin/20ad7b83-ed39-47dd-af0b-f47ef88c80ef",
+      "files": [
+        {
+          "name": "base_basic_pbr.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "coastal-rocks/base_basic_pbr.glb"
+        },
+        {
+          "name": "base_basic_shaded.glb",
+          "role": "model",
+          "mime_type": "model/gltf-binary",
+          "path": "coastal-rocks/base_basic_shaded.glb"
+        }
+      ],
+      "supersededAttempt": {
+        "generation_id": "e9f6ba48-7c52-4bec-9f55-fe4ead137aa3",
+        "status": "completed",
+        "display_url": "https://hyper3d.ai/workspace/rodin/e9f6ba48-7c52-4bec-9f55-fe4ead137aa3",
+        "reason": "Rejected after actual GLB review: faceted toy/diorama style and unwanted plinth; superseded by image-guided generation.",
+        "prompt": "Premium stylized mobile racing game prop, sunny Mediterranean seaside art direction: soft bevels, believable toy-like forms, subtle textured materials, warm ivory, coral, teal, olive green. One isolated object; no text, logo, plinth, background or floor.ONE reusable low coastal rock cluster, three naturally interlocking rounded angular pale warm sandstone boulders of different sizes, attractive broad sculpted stratified surfaces, subtle mineral color variation, small moss patches and 4 restrained short stylized grass tufts growing in crevices. Overall approximately 4 metres wide and 2 metres tall. Compact organic footprint, underside closed, ground contact bottom flat enough for placement. No water, no large ground slab, no miniature landscape, no pedestal. Elegant readable solid geometry."
+      }
+    }
+  ],
+  "road": {
+    "generator": "build-road.py / Python standard library",
+    "files": [
+      "road/road-straight-14x8.glb",
+      "road/kerb-4m.glb",
+      "road/barrier-4m.glb"
+    ],
+    "units": "metres",
+    "upAxis": "+Y",
+    "forwardAxis": "+Z",
+    "roadWidth": 14,
+    "roadLength": 8,
+    "overallWidth": 15.2,
+    "textureRepeatMetres": 2
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "glbVersion": 2,
+  "files": [
+    {
+      "file": "broadleaf/base_basic_pbr.glb",
+      "bytes": 15961032,
+      "sha256": "7828b2e34381be952b8c8266852c9b52bbb04e826fd076173dfc4a9b5aa19f8f",
+      "triangles": 10000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.944062352180481,
+          -0.8071101903915405,
+          -0.7036880850791931
+        ],
+        [
+          0.9485552310943604,
+          0.7925643920898438,
+          0.7021568417549133
+        ]
+      ],
+      "textures": [
+        {
+          "name": "texture_normal",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_diffuse",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_metallic-texture_roughness",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "broadleaf/base_basic_shaded.glb",
+      "bytes": 7251248,
+      "sha256": "7065e215f09b1b6f9d847957c2f91318d6b51b150ac2e672e1afa7bfaed4a5fa",
+      "triangles": 10000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.944062352180481,
+          -0.8071101903915405,
+          -0.7036880850791931
+        ],
+        [
+          0.9485552310943604,
+          0.7925643920898438,
+          0.7021568417549133
+        ]
+      ],
+      "textures": [
+        {
+          "name": "shaded",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "coastal-rocks/base_basic_pbr.glb",
+      "bytes": 14852960,
+      "sha256": "7837fdcc085b5d8874ff98b0e80f112c0cd7eb399582278c790de982f23d2bf2",
+      "triangles": 6000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.9505370855331421,
+          -0.53193199634552,
+          -0.882720947265625
+        ],
+        [
+          0.9489089250564575,
+          0.5315687656402588,
+          0.8833943605422974
+        ]
+      ],
+      "textures": [
+        {
+          "name": "texture_normal",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_diffuse",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_metallic-texture_roughness",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "coastal-rocks/base_basic_shaded.glb",
+      "bytes": 5900148,
+      "sha256": "54e9b5b7bc9a2be4b1b751a0b58a61b47e1b32ca1e4201d4ccd95dd960f38d03",
+      "triangles": 6000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.9505370855331421,
+          -0.53193199634552,
+          -0.882720947265625
+        ],
+        [
+          0.9489089250564575,
+          0.5315687656402588,
+          0.8833943605422974
+        ]
+      ],
+      "textures": [
+        {
+          "name": "shaded",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "kart/base_basic_pbr.glb",
+      "bytes": 11545080,
+      "sha256": "5c958bf1d93cd0c414c257a966ddf41dd80337b01cf7caab2cdfe00aff948000",
+      "triangles": 12000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.8632634878158569,
+          -0.5785807967185974,
+          -0.9510864019393921
+        ],
+        [
+          0.863440752029419,
+          0.5774194598197937,
+          0.9501456022262573
+        ]
+      ],
+      "textures": [
+        {
+          "name": "texture_normal",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_diffuse",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_metallic-texture_roughness",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "kart/base_basic_shaded.glb",
+      "bytes": 4713624,
+      "sha256": "d10148a009cff5ba69dc3b8cb153bb728748bff8cc5cae175e53cd0b601d768c",
+      "triangles": 12000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.8632634878158569,
+          -0.5785807967185974,
+          -0.9510864019393921
+        ],
+        [
+          0.863440752029419,
+          0.5774194598197937,
+          0.9501456022262573
+        ]
+      ],
+      "textures": [
+        {
+          "name": "shaded",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "lighthouse/base_basic_pbr.glb",
+      "bytes": 10507676,
+      "sha256": "eec40af62f946d923b8c373fc9a1cebf5cd4f0a641df60719a28a5a87918dc2c",
+      "triangles": 8000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.3386514484882355,
+          -0.9474388957023621,
+          -0.34364718198776245
+        ],
+        [
+          0.33802011609077454,
+          0.9462199807167053,
+          0.34430789947509766
+        ]
+      ],
+      "textures": [
+        {
+          "name": "texture_normal",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_diffuse",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_metallic-texture_roughness",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "lighthouse/base_basic_shaded.glb",
+      "bytes": 4806548,
+      "sha256": "b1587d1fd179cdf4c29f0ed7c359d30de2408137d1dfe4a9300ec309e987fbb6",
+      "triangles": 8000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.3386514484882355,
+          -0.9474388957023621,
+          -0.34364718198776245
+        ],
+        [
+          0.33802011609077454,
+          0.9462199807167053,
+          0.34430789947509766
+        ]
+      ],
+      "textures": [
+        {
+          "name": "shaded",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "palm/base_basic_pbr.glb",
+      "bytes": 12174468,
+      "sha256": "ea0c1ddbb1469a0dcd429281bd010931674b612667f0eb30306ce277e15b2f4e",
+      "triangles": 12000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.6771092414855957,
+          -0.9510411024093628,
+          -0.6621893048286438
+        ],
+        [
+          0.6785908937454224,
+          0.9468985795974731,
+          0.6575493216514587
+        ]
+      ],
+      "textures": [
+        {
+          "name": "texture_normal",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_diffuse",
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "name": "texture_metallic-texture_roughness",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "palm/base_basic_shaded.glb",
+      "bytes": 6584544,
+      "sha256": "65e3dc211715530d67b85c559d7bf3886765ce51cafa997f900565bea0486ca7",
+      "triangles": 12000,
+      "primitives": 1,
+      "materials": 1,
+      "bounds": [
+        [
+          -0.6771092414855957,
+          -0.9510411024093628,
+          -0.6621893048286438
+        ],
+        [
+          0.6785908937454224,
+          0.9468985795974731,
+          0.6575493216514587
+        ]
+      ],
+      "textures": [
+        {
+          "name": "shaded",
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "animations": 0
+    },
+    {
+      "file": "road/barrier-4m.glb",
+      "bytes": 4748,
+      "sha256": "9ea0181c8c51374d423025c72560c450aaac00400643f2d9c62055334ffb1032",
+      "triangles": 40,
+      "primitives": 2,
+      "materials": 3,
+      "bounds": [
+        [
+          -0.30000001192092896,
+          0.0,
+          -2.0
+        ],
+        [
+          0.30000001192092896,
+          0.75,
+          2.0
+        ]
+      ],
+      "textures": [],
+      "animations": 0
+    },
+    {
+      "file": "road/kerb-4m.glb",
+      "bytes": 4744,
+      "sha256": "767d2a42fd4edb8a219f8a0acd5d84a5c7eef7cabcebbaec0ce99f9f34a039bd",
+      "triangles": 40,
+      "primitives": 2,
+      "materials": 3,
+      "bounds": [
+        [
+          -0.30000001192092896,
+          0.0,
+          -2.0
+        ],
+        [
+          0.30000001192092896,
+          0.14000000059604645,
+          2.0
+        ]
+      ],
+      "textures": [],
+      "animations": 0
+    },
+    {
+      "file": "road/road-straight-14x8.glb",
+      "bytes": 3361120,
+      "sha256": "591bd130616be4128877b665980a1d357910a225c027b5066e5eb5f3eb05f4c3",
+      "triangles": 196,
+      "primitives": 3,
+      "materials": 3,
+      "bounds": [
+        [
+          -7.599999904632568,
+          -0.1599999964237213,
+          -4.0
+        ],
+        [
+          7.599999904632568,
+          0.14000000059604645,
+          4.0
+        ]
+      ],
+      "textures": [
+        {
+          "name": "basecolor",
+          "size": [
+            1254,
+            1254
+          ]
+        }
+      ],
+      "animations": 0
+    }
+  ]
+}
