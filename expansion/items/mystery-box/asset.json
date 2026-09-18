@@ -1,0 +1,40 @@
+{
+  "category": "items",
+  "id": "mystery-box",
+  "name": "随机道具箱",
+  "detail": "紫色圆角方盒、青色护角、正面清晰黄色问号",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "concept": "concept.png",
+  "generationId": "dc9a4991-2e61-4c4a-8792-4a61502c0197",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/dc9a4991-2e61-4c4a-8792-4a61502c0197",
+  "rejectedGenerationId": "14aa641e-0cd5-4a4d-a689-1acdc68b732d",
+  "prompt": "Match the uploaded reference exactly: one rounded purple mystery item cube with bright cyan corner bumpers. Each vertical face has a LARGE clear raised bright yellow QUESTION MARK including a curved hook and separate round dot. Preserve the question mark signs, these are essential identity; do not make blank faces. Purple cube, cyan protective corners, yellow question marks. Single complete isolated object with no stand, no surrounding floor, no scene, no particles. Polished rounded cartoon game collectible.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: one single-object concept reference for a 3D cartoon kart racing mystery item box. Exactly ONE compact rounded VIOLET PURPLE CUBE with chunky CYAN CORNER BUMPERS, isolated fully visible on plain light grey studio background. Each of the TWO VISIBLE VERTICAL FACES prominently carries a LARGE bright WARM YELLOW QUESTION MARK '?' symbol, including the separate round DOT under the curved hook. The front question mark must be instantly legible, simple bold rounded raised shape, yellow against purple. Slight bevelled outline of a lid is okay but shape remains a cube. Three-quarter view slightly above front showing front, side, and top, centered with wide margins; no cropping. Premium cheerful polished cartoon 3D, soft round corners, bright color blocks, glossy painted plastic, soft white studio lighting and minimal contact shadow. Absolutely not a blank box. Do not omit or distort the question mark, it is the identity of this item. No other lettering, no logos, no pedestal, no floor prop, no road, no car, no environment, no particles, no additional objects.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3298132,
+      "sha256": "765ccc337f2bfcf1299e575785009ebf4357f86e3a62ed92204827dee5fad7c5",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1427524
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 233056
+    }
+  }
+}

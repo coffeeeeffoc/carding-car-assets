@@ -1,0 +1,32 @@
+{
+  "category": "drivers",
+  "id": "ranger",
+  "name": "绿色巡护员",
+  "detail": "friendly nature ranger racing driver, forest green open-face helmet showing warm smiling face, green racing suit with cream vest panels, brown gloves and boots",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "15203335-5109-420e-a583-afe1101483fa",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/15203335-5109-420e-a583-afe1101483fa",
+  "prompt": "One original cute stylized toy-like human racing driver character: friendly nature ranger racing driver, forest green open-face helmet showing warm smiling face, green racing suit with cream vest panels, brown gloves and boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+  "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3521060,
+      "sha256": "cbff824f0b427729a5a8cb900492f42d4d72ad47e8cb2a7e2681c4b768919b5c",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 148882
+    }
+  }
+}

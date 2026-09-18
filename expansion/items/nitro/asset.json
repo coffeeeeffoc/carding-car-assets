@@ -1,0 +1,42 @@
+{
+  "category": "items",
+  "id": "nitro",
+  "name": "氮气瓶",
+  "detail": "single squat cyan metal nitro boost bottle with orange cap, chunky rounded shape, one white lightning symbol without text, simple side handles",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "0a21aeae-4865-425e-ad4a-7b6ae84deb85",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/0a21aeae-4865-425e-ad4a-7b6ae84deb85",
+  "prompt": "One standalone upright squat cyan metal bottle with an orange screw cap, white lightning bolt on front and small side handles. Follow the reference image exactly: rounded cylindrical canister, single complete object, colorful smooth cartoon 3D. No wheels, no seats, no vehicles, no pedestal, no scenery.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "rejectedGenerationId": "47d4af17-13ec-4acf-b88b-b2e6dd5223b9",
+  "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single squat cyan metal nitro boost bottle with orange cap, chunky rounded shape, one white lightning symbol without text, simple side handles. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+  "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one squat upright CYAN metal energy bottle, with a large ORANGE screw cap and one simple white lightning bolt on its front. The entire object is an upright short cylindrical canister with rounded shoulder, flat circular bottom and small simple side handles. Cheerful polished cartoon 3D render with smooth rounded toy-like shapes, clear color blocks, soft warm highlights. Three-quarter view, centered, whole bottle visible with plenty of margin, plain light gray background, soft studio lighting, no cast floor platform. Exactly one bottle and nothing else. NO wheels, NO seats, NO vehicles, NO base plinth, NO pedestal, NO tubes trailing away, NO scenery, NO text, NO logo, NO watermark. Square composition.",
+  "concept": "concept.png",
+  "generationMode": "image-reference",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3196352,
+      "sha256": "3cb4c0d3248502ca1d001e4954985e8a8b62e0e61e89bbee1b69f48ea9ab0cdb",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1291302
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 137617
+    }
+  }
+}

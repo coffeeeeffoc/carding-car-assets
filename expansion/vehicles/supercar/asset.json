@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "supercar",
+  "name": "流线超跑",
+  "detail": "deep violet and warm yellow original streamlined compact supercar, wide low wedge silhouette with rounded edges, wraparound dark glass cockpit, four rubber tires, rear wing, no brand",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "07d5c680-72fe-45db-9540-3bdffdaf172f",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/07d5c680-72fe-45db-9540-3bdffdaf172f",
+  "prompt": "One original stylized toy-like racing vehicle: deep violet and warm yellow original streamlined compact supercar, wide low wedge silhouette with rounded edges, wraparound dark glass cockpit, four rubber tires, rear wing, no brand. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 2764560,
+      "sha256": "746f723285114d5aa5cb6e4d52cd400d2d2c804ffea5312acaabf4d751bbbbe4",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 137418
+    }
+  }
+}

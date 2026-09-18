@@ -1,0 +1,40 @@
+{
+  "category": "drivers",
+  "id": "rookie",
+  "name": "橙白新秀",
+  "detail": "friendly orange and cream rookie racing driver, large orange full-face helmet with cream center stripe and dark closed visor, orange jumpsuit, cream gloves and boots",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "467960f9-4ead-4177-9a0f-41c3817d3ca0",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/467960f9-4ead-4177-9a0f-41c3817d3ca0",
+  "prompt": "Standalone full-body orange and cream helmeted toy human figurine exactly as reference. Standing upright A-pose, arms diagonal away from torso, two straight legs, both boots on ground level. Character alone. No wheels, vehicle, seat, base or accessories. Match orange suit, cream gloves and boots, orange helmet with cream stripe, opaque dark visor. Rounded cartoon game model, no lettering.",
+  "notes": "参考图重制的独立静态车手；首版带车轮模型已弃用。尚未绑定、调整坐姿或制作动画。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "rejectedGenerationId": "0726ceb3-c175-4637-9424-48674afec29a",
+  "imagePrompt": "Use case: stylized-concept. Asset type: full-body standalone character reference for 3D modeling. Create ONE original orange-and-cream racing-suit toy human character, standing upright in a clear symmetrical A-pose, legs straight with feet apart, arms extended diagonally down and away from torso, both full gloved hands visible. Large rounded orange full-face helmet with ONE broad cream center stripe and a dark closed visor. Orange one-piece jumpsuit, cream belt stripe, cream gloves and cream boots. Friendly compact proportions, helmet one third total height. Clean rounded high-quality stylized 3D mobile-game character, soft colors, frontal three-quarter view, full figure head to toes comfortably in frame, neutral pale grey background. Absolutely CHARACTER ONLY. No car, wheels, vehicle parts, seat, steering wheel, props, pedestal, captions, letters, logos or watermark.",
+  "concept": "concept.png",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3550748,
+      "sha256": "5d2f0695a68ff2ab49d3943f285a9865b3f926e9a07f3abef216f520fa67c670",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1787962
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 132615
+    }
+  }
+}

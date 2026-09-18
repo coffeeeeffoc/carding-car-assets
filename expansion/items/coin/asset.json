@@ -1,0 +1,32 @@
+{
+  "category": "items",
+  "id": "coin",
+  "name": "金币",
+  "detail": "single thick golden collectible coin standing upright, bevelled rim and simple embossed star on face, original unbranded, no lettering",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "2bda49da-93fa-426f-8e23-5609fb6dded9",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/2bda49da-93fa-426f-8e23-5609fb6dded9",
+  "prompt": "One original stylized cartoon 3D kart racing game item: single thick golden collectible coin standing upright, bevelled rim and simple embossed star on face, original unbranded, no lettering. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+  "notes": "静态道具美术源模型；玩法、碰撞及特效尚未接入。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 2874320,
+      "sha256": "9145c322582f2dee44d2df4af47c0446981bcd3dfede932a6653b35749f73c10",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 168307
+    }
+  }
+}

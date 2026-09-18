@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "mini-pickup",
+  "name": "迷你皮卡",
+  "detail": "leaf green and warm cream mini racing pickup truck, compact two-seat cab with transparent windshield and empty cabin, short empty truck bed, four chunky tires, rounded bumpers",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "e7a72d99-4fb8-481d-b875-b873f2b480de",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/e7a72d99-4fb8-481d-b875-b873f2b480de",
+  "prompt": "One original stylized toy-like racing vehicle: leaf green and warm cream mini racing pickup truck, compact two-seat cab with transparent windshield and empty cabin, short empty truck bed, four chunky tires, rounded bumpers. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3405640,
+      "sha256": "4d7afe69ba1fc48eda4096eee56ce05934da6c1d1797576536f9dc5fde2d16c1",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 182869
+    }
+  }
+}

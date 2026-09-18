@@ -1,0 +1,51 @@
+{
+  "id": "danxia",
+  "name": "七彩丹霞",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "rock-texture.png",
+  "model": "model.glb",
+  "generationId": "533a8482-38bd-4530-bdf4-1b01d9f80531",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/533a8482-38bd-4530-bdf4-1b01d9f80531",
+  "status": "validated-static-source",
+  "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+  "downloaded": true,
+  "rejectedGenerationId": "03e64444-9484-4c38-a058-6ca0a5df44e6",
+  "reference": "asset-reference.png",
+  "prompt": "Reconstruct the uploaded image as one complete cartoon 3D Danxia racing terrain diorama. Preserve its THIN base, ROUND hills with red orange ochre cream and gray-green geological color stripes, wide dark asphalt S-bend crossing from edge to edge, white guardrails, and small wooden viewing pavilion. Keep the road clearly visible and continuous. Do not turn it into a box or tall vertical canyon walls. No background plane, no text, people or cars. Static environment visual prototype.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: isolated 3D game environment model reference, square studio render. Use the provided Danxia concept ONLY as the style and natural geological color reference, redesign its composition into ONE compact self-contained low-thickness terrain diorama fully visible with margins on plain light gray studio background. 45-degree elevated three-quarter view. Three smooth ROUND low Danxia hills and long rounded ridgelines with very clear broad alternating geological stripes: brick RED, burnt ORANGE, ochre YELLOW, cream, and muted gray GREEN. Color strata visibly wrap around all hills, warm playful polished cartoon 3D, large readable color blocks, soft bevels and gentle highlights. A broad unmistakable DARK GRAY ASPHALT S-shaped racetrack passes uninterrupted from one edge of the tile to the opposite edge with distinct white edging and WHITE protective guardrails. Track remains exposed to camera, no hills hide it. One small wooden scenic viewing pavilion beside road. Very thin irregular rounded terrain slab; slab thickness only 1/15 of total footprint width, low hills rise naturally above it. Full asset including slab underside and all silhouette edges fits in frame. NO tall rectangular cliffs, NO canyon box, NO cubic mountains, NO massive vertical walls. No background landscape, no sky, no vehicles, no people, no text, no logo, no watermark.",
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 5751488,
+      "sha256": "70f77a6dabe41ff27ce3ae9a7f7e226d1045cdf4ebe421d23c0fb685e4fc60e3",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "asset-reference.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2382848
+    },
+    "concept.png": {
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2934427
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 171035
+    },
+    "rock-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2619897
+    }
+  }
+}

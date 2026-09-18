@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "electric",
+  "name": "未来电动",
+  "detail": "white and cyan futuristic compact electric racing car, smooth capsule body, enclosed empty cockpit, cyan accent strips, four conventional rubber wheels, short spoiler, clean aerodynamic rounded silhouette",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "7a900513-7aea-48ab-8f10-0986616edefe",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/7a900513-7aea-48ab-8f10-0986616edefe",
+  "prompt": "One original stylized toy-like racing vehicle: white and cyan futuristic compact electric racing car, smooth capsule body, enclosed empty cockpit, cyan accent strips, four conventional rubber wheels, short spoiler, clean aerodynamic rounded silhouette. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3506928,
+      "sha256": "1de34150506719a4ff010e8767bb087d984d5ec0bde57dfd8899de7ba4672cdf",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 140010
+    }
+  }
+}

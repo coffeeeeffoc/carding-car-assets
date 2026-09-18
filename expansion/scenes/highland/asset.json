@@ -1,0 +1,51 @@
+{
+  "id": "highland",
+  "name": "高原与高山",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "ground-texture.png",
+  "model": "model.glb",
+  "reference": "asset-reference.png",
+  "rejectedGenerationId": "e7a7f805-527e-42aa-896d-63b42ba012e4",
+  "generationId": "4e6ee855-ac1e-47c0-9d46-a08d9f9ba30e",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/4e6ee855-ac1e-47c0-9d46-a08d9f9ba30e",
+  "status": "validated-static-source",
+  "downloaded": true,
+  "prompt": "Faithfully reconstruct the entire reference diorama as a textured 3D asset. Preserve the very tall white snow-covered rear main peak and two smaller snowy side peaks, gray exposed rock, broad open dark asphalt mountain hairpins with stone retaining walls and continuous guardrails, red-white curbs, and clearly visible orange-roof stone mountain-pass lodge on front-right terrace. Preserve strong vertical mountain height, all peaks fully modeled in geometry and snow visibly white. Single connected thin-base rocky terrain tile, no thick pedestal, no background plane. Original bright rounded cartoon 3D style. Keep road surface unobstructed and broad. No cars, people, text, trees, billboards, extra buildings. All mountain peaks and lodge must remain recognizable and distinct. Match reference colors and layout. Complete object visible from all sides.",
+  "imagePrompt": "Use case: stylized-concept. Create a new square 3D modeling reference image for a complete isolated original cartoon highland kart race diorama. Use the attached concept ONLY as style and theme reference; transform it into a single fully visible compact object on a plain light-gray studio background. Subject: a thin flat-bottom irregular gray rock terrain tile, at the REAR one very tall unmistakable white snow-covered main mountain peak and two smaller snow-capped side peaks, thick sculpted brilliant white snow occupying the upper half of every peak, gray exposed rock below. Main peak much taller than the entire lodge and road levels; bold alpine silhouette. FRONT and middle: gray-rock plateau terraces with a single broad open asphalt mountain hairpin road, stone retaining walls and continuous simple guardrails, red-white curbs. One clearly visible small stone mountain-pass lodge with bright orange terracotta roof on the front right terrace, separated from road. A few tiny tough shrubs, no green forest. Camera 45-degree overhead three-quarter orthographic product view; show entire diorama including all peaks, thin base and all edges with generous empty margin. Rounded clean colorful cartoon 3D material, large simplified game-ready shapes and soft studio lighting, clear vertical height difference. Strong cold gray/white mountain colors with warm orange lodge accent. No cars, no people, no text, no labels, no watermarks. No horizon, sky, distant painted scenery, cropped peaks or thick pedestal. All mountains must be actual connected 3D forms on the tile, and road surface open and clear.",
+  "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 6245916,
+      "sha256": "8da721fc71718bf356edd3c167260711ccf815a8893e0386f29fa1921423e444",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "asset-reference.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2438738
+    },
+    "concept.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2864209
+    },
+    "ground-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2870499
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 208279
+    }
+  }
+}

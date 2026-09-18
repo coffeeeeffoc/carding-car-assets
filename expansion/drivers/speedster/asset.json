@@ -1,0 +1,32 @@
+{
+  "category": "drivers",
+  "id": "speedster",
+  "name": "红色竞速手",
+  "detail": "confident red and white racing driver, sleek scarlet helmet with dark visor and white side panels, fitted red racing suit, white gloves and boots",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "0ee56d6c-eb22-46de-96ca-55b986d4c9d5",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/0ee56d6c-eb22-46de-96ca-55b986d4c9d5",
+  "prompt": "One original cute stylized toy-like human racing driver character: confident red and white racing driver, sleek scarlet helmet with dark visor and white side panels, fitted red racing suit, white gloves and boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+  "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3463116,
+      "sha256": "3ff6d98dc325c94634c8bf4c014aa947a74fdf819a93db42e4cf3b7a92ee75ad",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 152460
+    }
+  }
+}

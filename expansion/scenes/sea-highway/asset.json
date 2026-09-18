@@ -1,0 +1,74 @@
+{
+  "id": "sea-highway",
+  "name": "跨海高速",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "water-texture.png",
+  "model": "model.glb",
+  "generationId": "787ad4e5-fc3a-4144-aa14-bf5f6dd6606f",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/787ad4e5-fc3a-4144-aa14-bf5f6dd6606f",
+  "status": "validated-static-source",
+  "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+  "images": {
+    "concept": {
+      "width": 1536,
+      "height": 1024
+    },
+    "texture": {
+      "width": 1254,
+      "height": 1254
+    },
+    "reference": {
+      "width": 1254,
+      "height": 1254
+    }
+  },
+  "generation": {
+    "provider": "Hyper3D Rodin",
+    "tier": "Gen-2.5-Medium",
+    "meshMode": "Raw",
+    "qualityOverride": 18000,
+    "format": "glb",
+    "referenceMode": "image"
+  },
+  "imageSource": "built-in image_gen",
+  "downloaded": true,
+  "rejectedGenerationId": "65588f8f-0a50-48d4-bb46-50ecbd751b25",
+  "reference": "asset-reference.png",
+  "prompt": "Reconstruct the reference image as one complete cheerful cartoon 3D sea-highway diorama. Preserve the vivid thick turquoise-blue WATER BASE covering most of the footprint, TWO white A-shaped bridge pylons and many clearly visible THICK DIAGONAL CABLE STAYS fanning from the tower tops down to both sides of the bridge deck. The bridge crosses WATER, never land. Wide dark-gray gently undulating bridge roadway, white guardrails, red-white curbs, two small green rocky islands at the ends, a single white lighthouse with red cap. All image objects belong to one coherent miniature environment asset. Preserve the original clean cartoon materials and colors and the clear gaps between cable stays. No cars or people, no added buildings, no sky, no background plane, no text.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: image-to-3D modeling reference, one complete isolated sea highway environment diorama asset. Reference image 1 is STYLE AND SUBJECT reference only: retain its polished cheerful cartoon 3D look, white cable-stayed bridge over vivid blue sea, green rocky islands and red-roofed lighthouse, but redesign the composition into one small complete isolated model. On a plain neutral light gray studio background, render an entire compact thick rectangular AZURE TURQUOISE SEA-WATER BASE with a white cable-stayed bridge crossing it diagonally between TWO SMALL ISLANDS at the two ends. Most of the base is blue water with simple visible small wave ripples. Two recognizable white A-SHAPED bridge pylons have diagonal legs joined at the apex and clear open triangular spaces. Each pylon supports multiple THICK clearly visible white DIAGONAL CABLE STAYS fanning out to both sides of the roadway; the cables are solid chunky rods suitable for 3D reconstruction, never faint thin lines. Broad gently raised dark gray asphalt bridge deck, white safety railings, red-white curbs. One small white lighthouse with red cap on an island. Camera 45 degree elevated three-quarter view; show every edge of the water-base and the full tops of towers. Center the complete object with generous gray margin around all sides. Simplified clean mobile-game geometry, warm-white highlights, soft studio shadows. No cars, no traffic, no people, no buildings except lighthouse, no land under bridge, no horizon, no sky, no text, no logo, no UI. Exactly one coherent self-contained isolated 3D environment asset, no grid and no multi-view sheet. Square composition.",
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 5663340,
+      "sha256": "1bd21fda4177f9010e285bcd9eae76c1c987c953c3032d3bf63dc455086b4e6f",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "asset-reference.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1973136
+    },
+    "concept.png": {
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2613963
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 133443
+    },
+    "water-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2413705
+    }
+  }
+}

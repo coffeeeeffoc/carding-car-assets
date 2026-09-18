@@ -1,0 +1,47 @@
+{
+  "category": "items",
+  "id": "watermelon-peel",
+  "name": "西瓜皮",
+  "detail": "single slippery curved watermelon rind lying on its side, saturated green striped skin, cream inner layer, thin red fruit remnants, curved boat-like crescent silhouette, clear three-dimensional object",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "30a80b4f-3ece-4b5b-ad9f-9bafcf6d966a",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/30a80b4f-3ece-4b5b-ad9f-9bafcf6d966a",
+  "prompt": "Create exactly the single eaten watermelon rind in the reference image. A thin curved hollow green striped rind with cream white interior and only thin red flesh remnants on the edge. Keep its crescent silhouette, hollow interior and rounded cartoon material. Model the rind alone, not the gray background. No solid fruit wedge, no base, tray, cutting board, wheels, vehicle or pedestal.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "downloaded": true,
+  "rejectedGenerationId": "7bebb28c-84ca-4c8b-9d62-83d1719cebd8",
+  "concept": "concept.png",
+  "imagePrompt": "Use case: stylized-concept. Asset type: single-object 3D modeling reference. A single eaten watermelon rind, a THIN curved crescent strip, green striped outer skin, cream-white inner layer with only tiny thin traces of red remaining fruit along its rim. Concave inside is hollow and clearly visible from slightly elevated three-quarter view, rind lying naturally on one side. The whole object fits inside a clean neutral gray studio background, centered, rounded cartoon 3D render with simple clean materials and readable silhouette. This is ONLY the empty watermelon rind, no solid red wedge, no full fruit flesh, no board, no tray, no stand, no pedestal, no chassis, no wheels, no tires, no vehicle, no text, no watermark. One object only.",
+  "referenceUploadId": "53204c30-717e-47db-971c-7a7c2ad000a4",
+  "generationParameters": {
+    "geometry_file_format": "glb",
+    "quality_override": 2000,
+    "mesh_mode": "Raw",
+    "tier": "Gen-2.5-Medium"
+  },
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3222756,
+      "sha256": "f1682d5b399165a732867cfb94fb8a47ee715a4b7e972ecc44aae66db3eee692",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1647605
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 104564
+    }
+  }
+}

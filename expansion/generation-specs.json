@@ -1,0 +1,194 @@
+[
+  {
+    "category": "vehicles",
+    "id": "classic-kart",
+    "name": "经典卡丁",
+    "detail": "orange and warm cream classic open-wheel go-kart, four exposed chunky rubber wheels, compact rounded nose cone with cream center stripe, empty seat, steering wheel, black bumper, small rear motor"
+  },
+  {
+    "category": "vehicles",
+    "id": "formula",
+    "name": "方程式",
+    "detail": "scarlet red and white compact formula racing car, long narrow low nose, front and rear aerodynamic wings, four exposed black slick tires, one EMPTY open cockpit with steering wheel"
+  },
+  {
+    "category": "vehicles",
+    "id": "rally",
+    "name": "拉力掀背",
+    "detail": "cobalt blue and yellow compact rally hatchback racing car, boxy short body, four chunky tires, flared wheel arches, four round auxiliary front lights, roof vent, visible glass windows"
+  },
+  {
+    "category": "vehicles",
+    "id": "dune-buggy",
+    "name": "沙漠越野",
+    "detail": "sand yellow and turquoise dune buggy racing car, four oversize knobbly tires, open tubular roll cage, short wide body, spare wheel behind two EMPTY seats"
+  },
+  {
+    "category": "vehicles",
+    "id": "retro-roadster",
+    "name": "复古跑车",
+    "detail": "mint green and cream vintage open-top racing roadster, rounded separate fenders, round headlamps, chrome-like bumper, brown EMPTY cockpit, four rubber tires"
+  },
+  {
+    "category": "vehicles",
+    "id": "muscle",
+    "name": "肌肉跑车",
+    "detail": "burnt orange and charcoal American-inspired original muscle racing coupe, broad squared bonnet with modest scoop, thick rear haunches, four chunky rubber tires, cream twin stripes, no brand"
+  },
+  {
+    "category": "vehicles",
+    "id": "electric",
+    "name": "未来电动",
+    "detail": "white and cyan futuristic compact electric racing car, smooth capsule body, enclosed empty cockpit, cyan accent strips, four conventional rubber wheels, short spoiler, clean aerodynamic rounded silhouette"
+  },
+  {
+    "category": "vehicles",
+    "id": "mini-pickup",
+    "name": "迷你皮卡",
+    "detail": "leaf green and warm cream mini racing pickup truck, compact two-seat cab with transparent windshield and empty cabin, short empty truck bed, four chunky tires, rounded bumpers"
+  },
+  {
+    "category": "vehicles",
+    "id": "snow-tracks",
+    "name": "冰原履带",
+    "detail": "ice blue and bright orange small snow racing vehicle, compact empty open cockpit under roll hoop, two black rubber caterpillar tracks with visible small rollers, rounded nose, no skis, no driver"
+  },
+  {
+    "category": "vehicles",
+    "id": "supercar",
+    "name": "流线超跑",
+    "detail": "deep violet and warm yellow original streamlined compact supercar, wide low wedge silhouette with rounded edges, wraparound dark glass cockpit, four rubber tires, rear wing, no brand"
+  },
+  {
+    "category": "drivers",
+    "id": "rookie",
+    "name": "橙白新秀",
+    "detail": "friendly orange and cream rookie racing driver, large orange full-face helmet with cream center stripe and dark closed visor, orange jumpsuit, cream gloves and boots"
+  },
+  {
+    "category": "drivers",
+    "id": "mechanic",
+    "name": "蓝色技师",
+    "detail": "friendly cobalt blue and yellow mechanic racing driver, round blue racing helmet with goggles resting above eyes, blue jumpsuit with broad yellow shoulder pads, sturdy gloves and boots, no loose tools"
+  },
+  {
+    "category": "drivers",
+    "id": "speedster",
+    "name": "红色竞速手",
+    "detail": "confident red and white racing driver, sleek scarlet helmet with dark visor and white side panels, fitted red racing suit, white gloves and boots"
+  },
+  {
+    "category": "drivers",
+    "id": "explorer",
+    "name": "沙漠探险者",
+    "detail": "friendly desert explorer racing driver, sand beige helmet with amber goggles, compact teal neck scarf close to body, tan racing jumpsuit and padded gloves, brown ankle boots"
+  },
+  {
+    "category": "drivers",
+    "id": "polar-guide",
+    "name": "冰原向导",
+    "detail": "friendly polar expedition racing driver, ice blue round helmet with wide violet visor, white insulated racing suit with orange patches, padded mitt-like gloves and snow boots"
+  },
+  {
+    "category": "drivers",
+    "id": "future-pilot",
+    "name": "紫色未来车手",
+    "detail": "friendly futuristic racing driver, purple helmet with cyan visor band, deep violet racing suit with simple cyan strips, sleek gloves and boots, no weapon"
+  },
+  {
+    "category": "drivers",
+    "id": "ranger",
+    "name": "绿色巡护员",
+    "detail": "friendly nature ranger racing driver, forest green open-face helmet showing warm smiling face, green racing suit with cream vest panels, brown gloves and boots"
+  },
+  {
+    "category": "drivers",
+    "id": "aviator",
+    "name": "青色飞行员",
+    "detail": "friendly aviator racing driver, teal open-face racing helmet with amber flight goggles, cream short collar, teal racing jumpsuit and cream gloves, brown boots, no wings"
+  },
+  {
+    "category": "drivers",
+    "id": "street-racer",
+    "name": "粉色街头车手",
+    "detail": "cheerful pink and navy street racing driver, magenta full-face helmet with dark visor and short decorative ear-like vents, pink racing jacket shaped jumpsuit, navy gloves and chunky boots"
+  },
+  {
+    "category": "drivers",
+    "id": "champion",
+    "name": "黑金冠军",
+    "detail": "confident black and gold champion racing driver, charcoal full-face helmet with golden center panel, matte black racing suit with broad gold shoulders and cuffs, gold gloves, black boots, no crown"
+  },
+  {
+    "category": "items",
+    "id": "nitro",
+    "name": "氮气瓶",
+    "detail": "single squat cyan metal nitro boost bottle with orange cap, chunky rounded shape, one white lightning symbol without text, simple side handles"
+  },
+  {
+    "category": "items",
+    "id": "boost-pad",
+    "name": "加速板",
+    "detail": "single low rectangular racing boost pad, dark navy base, bright cyan illuminated two forward chevrons, orange edge bumper, bevelled edges, no ground"
+  },
+  {
+    "category": "items",
+    "id": "roadblock",
+    "name": "路障",
+    "detail": "single short portable roadblock, orange and cream diagonal striped rounded horizontal barricade resting on two dark rubber feet, no words"
+  },
+  {
+    "category": "items",
+    "id": "watermelon-peel",
+    "name": "西瓜皮",
+    "detail": "single slippery curved watermelon rind lying on its side, saturated green striped skin, cream inner layer, thin red fruit remnants, curved boat-like crescent silhouette, clear three-dimensional object"
+  },
+  {
+    "category": "items",
+    "id": "oil-slick",
+    "name": "油渍",
+    "detail": "single flat irregular glossy black oil slick with violet blue iridescent rim, very thin solid puddle mesh, one compact organic silhouette, no can no floor"
+  },
+  {
+    "category": "items",
+    "id": "freeze-orb",
+    "name": "冰冻球",
+    "detail": "single faceted round blue ice sphere powerup containing a white snowflake emblem, small frosty rim crystals, readable compact shape, no base no particles"
+  },
+  {
+    "category": "items",
+    "id": "shield",
+    "name": "护盾",
+    "detail": "single compact shield powerup object, rounded cyan shield shape with thick cream edge and small yellow central diamond, chunky solid readable shape, no text"
+  },
+  {
+    "category": "items",
+    "id": "magnet",
+    "name": "磁铁",
+    "detail": "single chunky red horseshoe magnet powerup, two cream metallic end caps, rounded edges, broad U silhouette, no particles"
+  },
+  {
+    "category": "items",
+    "id": "spring-pad",
+    "name": "弹簧板",
+    "detail": "single cartoon jump spring pad, orange low square base, one thick silver coil spring, compact cyan top plate, bevelled edges, no floor"
+  },
+  {
+    "category": "items",
+    "id": "repair-kit",
+    "name": "修理箱",
+    "detail": "single small red rounded tool case repair powerup, cream handle and latch, raised cream simple wrench emblem, closed case, no letters"
+  },
+  {
+    "category": "items",
+    "id": "coin",
+    "name": "金币",
+    "detail": "single thick golden collectible coin standing upright, bevelled rim and simple embossed star on face, original unbranded, no lettering"
+  },
+  {
+    "category": "items",
+    "id": "mystery-box",
+    "name": "随机道具箱",
+    "detail": "single rounded violet mystery item cube with cyan corner bumpers, raised warm yellow question mark on each visible side, original design, no other text"
+  }
+]

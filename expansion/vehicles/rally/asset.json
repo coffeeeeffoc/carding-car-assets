@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "rally",
+  "name": "拉力掀背",
+  "detail": "cobalt blue and yellow compact rally hatchback racing car, boxy short body, four chunky tires, flared wheel arches, four round auxiliary front lights, roof vent, visible glass windows",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "ed1d30be-57c1-4d1b-9918-498a7bc5fa7f",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/ed1d30be-57c1-4d1b-9918-498a7bc5fa7f",
+  "prompt": "One original stylized toy-like racing vehicle: cobalt blue and yellow compact rally hatchback racing car, boxy short body, four chunky tires, flared wheel arches, four round auxiliary front lights, roof vent, visible glass windows. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 4076572,
+      "sha256": "322671e62aae1c6cb400267e5accb578b7fdcc8d014e09a0004420a5b3800db3",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 228541
+    }
+  }
+}

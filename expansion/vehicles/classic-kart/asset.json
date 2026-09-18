@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "classic-kart",
+  "name": "经典卡丁",
+  "detail": "orange and warm cream classic open-wheel go-kart, four exposed chunky rubber wheels, compact rounded nose cone with cream center stripe, empty seat, steering wheel, black bumper, small rear motor",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "a65da878-d14c-49db-bab4-477d21d900a9",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/a65da878-d14c-49db-bab4-477d21d900a9",
+  "prompt": "One original stylized toy-like racing go-kart, orange and warm cream classic open-wheel kart, four chunky black rubber wheels, compact rounded nose cone with cream center stripe, visible empty seat and steering wheel, black bumper and small rear motor. No driver, no words or logos, no background, no floor, no pedestal. Clean standalone textured game asset, coherent rounded mobile game style with readable silhouette, soft painted colors. Vehicle only.",
+  "notes": "静态美术源模型；待生成和验证。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3372808,
+      "sha256": "f3b7860d3c2bdde4b434502816fd7d718c088bc4ebdd55ea3af91b3234accbfa",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 126228
+    }
+  }
+}

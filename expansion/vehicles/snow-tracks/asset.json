@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "snow-tracks",
+  "name": "冰原越野",
+  "detail": "ice blue and bright orange small snow racing vehicle, compact empty open cockpit under roll hoop, two black rubber caterpillar tracks with visible small rollers, rounded nose, no skis, no driver",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "a058482c-2ed0-41db-8950-0f08af47f33f",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/a058482c-2ed0-41db-8950-0f08af47f33f",
+  "prompt": "One original stylized toy-like racing vehicle: ice blue and bright orange small snow racing vehicle, compact empty open cockpit under roll hoop, two black rubber caterpillar tracks with visible small rollers, rounded nose, no skis, no driver. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "实际生成的是四轮冰蓝越野赛车，保留为第九种车型；原提示词中的履带未生成。车轮与车体同网格，尚未拆件或接入游戏。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3660788,
+      "sha256": "1809b0578bb900b3d1cb444fe9c32f6d5bb67a914248cd236717c1cb8928738e",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 161493
+    }
+  }
+}

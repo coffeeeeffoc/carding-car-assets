@@ -1,0 +1,58 @@
+{
+  "id": "desert",
+  "name": "沙漠",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "ground-texture.png",
+  "model": "model.glb",
+  "generationId": "192ceb89-dec8-4f5e-b951-2ff863c73744",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/192ceb89-dec8-4f5e-b951-2ff863c73744",
+  "status": "validated-static-source",
+  "validation": {
+    "model": {
+      "bytes": 5658736,
+      "sha256": "59ad286435bee186ef44f317acd411a531cca6fb1ba04b48ad9b2b9807a7ae99",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "asset-reference.png": {
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2172380
+    },
+    "concept.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2223283
+    },
+    "ground-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2921339
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 182315
+    }
+  },
+  "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+  "downloaded": true,
+  "rejectedGenerationId": "9163c7a9-ccbb-4ed4-881d-594b4d2eb816",
+  "reference": "asset-reference.png",
+  "prompt": "Reconstruct this complete isolated desert circuit terrain diorama from the reference image. Essential geometry: a clearly visible BROAD dark gray asphalt S-bend road crossing from front-left to rear-right, continuous safety barriers and red-white curbs bordering BOTH road sides along its full length; one cream low supply-station building with orange awning beside the road. Also preserve the solid low golden sand terrain base, two wind-eroded rock pillars and small turquoise oasis with palms. Road and building must be present and remain dominant recognizable features. Full complete asset; round clean colorful cartoon materials. No vehicles, characters, text, sky or background plane. Model all the reference terrain as one environment static prototype; do not reduce it to an oasis only.",
+  "imagePrompt": "Use case: stylized-concept. Create a new 3D modeling reference image using the supplied desert concept image ONLY as a style and palette reference. Subject: ONE complete isolated SOLID low terrain diorama of a desert race circuit. Entire terrain base and all objects fully in frame, generous margin, plain light-gray studio background, no sky or horizon. Camera at 45-degree downward isometric view. MOST IMPORTANT: a clearly visible wide dark-gray ASPHALT S-BEND ROAD crosses the terrain from the front-left edge to the rear-right edge; asphalt is an obvious distinct raised road surface at least one-third of terrain width, with continuous chunky red-and-white safety barriers bordering BOTH edges along both curves. Road is not buried by sand or blocked by any object. Golden rounded LOW sand dunes on a low solid rectangular sand terrain base, exactly two chunky amber wind-eroded rock pillars, one small turquoise oasis with two palms, and ONE clearly recognizable low cream-white roadside supply station building with orange awning, doorway and windows. Place the supply station beside the track visibly separated from the rock pillars, large enough to recognize. Restrained detail, rounded cartoon 3D toy-like forms, warm clean colors matching the reference. No vehicles, people, text, UI, logos or floating decorations. This must look like a complete buildable miniature circuit asset, not a landscape crop or open background.",
+  "referenceUploadId": "ef497c26-9a80-4199-9ad9-a608ab23c96b",
+  "generationParameters": {
+    "geometry_file_format": "glb",
+    "quality_override": 18000,
+    "mesh_mode": "Raw",
+    "tier": "Gen-2.5-Medium"
+  },
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source"
+}

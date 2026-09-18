@@ -1,0 +1,46 @@
+{
+  "id": "glacier",
+  "name": "冰川",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "ice-texture.png",
+  "model": "model.glb",
+  "generationId": "8095d8b3-6dfb-43da-ad68-9df9d49ab51a",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/8095d8b3-6dfb-43da-ad68-9df9d49ab51a",
+  "status": "validated-static-source",
+  "notes": [
+    "效果图先于素材生成，图片使用内置 image_gen。",
+    "纹理按可平铺要求生成；材质接缝尚未复核。",
+    "静态场景地块美术原型，碰撞、Cocos 导入与移动端性能未验证。"
+  ],
+  "validation": {
+    "model": {
+      "bytes": 4859468,
+      "sha256": "a4298d91d40d1717ae90733d741fe242ed4cc3df9ce03814f80e93fe6c325527",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2195996
+    },
+    "ice-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2261156
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 195889
+    }
+  },
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source"
+}

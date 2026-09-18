@@ -1,0 +1,42 @@
+{
+  "category": "items",
+  "id": "boost-pad",
+  "name": "加速板",
+  "detail": "single low rectangular racing boost pad, dark navy base, bright cyan illuminated two forward chevrons, orange edge bumper, bevelled edges, no ground",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "80577f16-eb7c-47be-ba6b-16995c332bad",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/80577f16-eb7c-47be-ba6b-16995c332bad",
+  "prompt": "One very low flat rectangular directional panel, dark navy blue shallow slab with exactly two bright cyan forward-pointing chevrons inset on its top and thin orange edge trim. Follow reference image exactly. Rounded bevels, smooth colorful cartoon material, a single thin flat panel. No wheels, no seats, no vehicles, no pedestal, no scenery.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "rejectedGenerationId": "657d800b-6e12-46f3-abe3-5e54e961282f",
+  "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single low rectangular racing boost pad, dark navy base, bright cyan illuminated two forward chevrons, orange edge bumper, bevelled edges, no ground. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+  "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one VERY LOW FLAT rectangular directional BOOST PAD, dark navy blue slab only, beveled rounded corners, bright cyan TWO large forward-pointing chevrons inset on its flat top surface, thin orange protective trim around its four edges. Proportions like a shallow flat rectangular floor panel, width 1, length 1.5, thickness only 0.06. Cheerful polished cartoon 3D, smooth rounded toy-like shape, clean vivid materials. Elevated three-quarter view so its full top and thin side edges are clearly visible, entire object centered with generous margin, plain light gray background, soft studio lighting. Exactly one flat panel and nothing else. NO wheels, NO axles, NO seats, NO vehicles, NO pedestal, NO separate base platform, NO raised structure, NO text, NO scenery, NO logo, NO watermark. Square composition.",
+  "concept": "concept.png",
+  "generationMode": "image-reference",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 2331964,
+      "sha256": "f9aeabbc77b895277b8437e1cff2b0fa64749faa5a64f14e90a5eaa7bfb6e5b6",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1206122
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 114360
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "tibetan-grassland",
+  "name": "青藏高原草原与小山",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "grass-texture.png",
+  "reference": "asset-reference.png",
+  "model": "model.glb",
+  "rejectedGenerationId": "2823cbe0-3c1b-4117-ab67-2c4e9cd64574",
+  "generationId": "02ed6c9d-ab3b-4c18-bfd2-0408059e8429",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/02ed6c9d-ab3b-4c18-bfd2-0408059e8429",
+  "status": "validated-static-source",
+  "downloaded": true,
+  "prompt": "Reconstruct the entire solid miniature grassland terrain block in the reference image. Include the thick filled-in earth base, continuous vivid green grass surface, low rounded grassy hills, two white pastoral canvas tents, turquoise stream and small wooden bridge. Preserve the broad gray asphalt S-bend road physically resting on the terrain, white guardrails and red-white curbs. A cohesive complete diorama, full landmass and grass surface are essential; do not output isolated floating road strips. Clean stylized cartoon 3D, matte colorful materials. No background geometry, no snow peaks, no people, no vehicles, no text.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: a single clear 3D reconstruction reference image of a miniature racing terrain diorama. Use the supplied concept image ONLY as a color and style reference; replace its panoramic composition with one isolated compact solid terrain block fully in frame on a neutral light-gray studio background. Subject: complete Qinghai-Tibet plateau grassland terrain tile, thick solid earth base covered with bright green short grass, several low rounded green grassy hills, a small turquoise creek, exactly two white pastoral canvas tents, and a wide gray asphalt S-bend racing road running across the ground surface. The road must sit firmly on the ground, with clear white guardrails along the edges. Include one small wooden bridge across the creek and a few simple gray stones. Camera: 45-degree elevated three-quarter isometric view, entire block and all its sides visible, clear margin around the asset. Simple readable miniature cartoon 3D, chunky smooth forms, matte colors, soft studio light, detailed enough to reconstruct the landmass and tents. Terrain must be a filled-in solid continuous green landmass, no holes or hollow center; most of the image shows grassland terrain, not road. Preserve the calm open grassland identity. No giant snowy peaks, no alpine mountains, no cliffs, no scenery outside the block, no sky, no people, no vehicles, no yaks, no text, no labels, no UI, no watermark.",
+  "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 5530148,
+      "sha256": "5f62ff5238b061277e3a57c278efecaad7846e2123be9dc60755a183480fd460",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "asset-reference.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2224478
+    },
+    "concept.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2618817
+    },
+    "grass-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3021419
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 206753
+    }
+  }
+}

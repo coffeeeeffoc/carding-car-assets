@@ -1,0 +1,40 @@
+{
+  "category": "items",
+  "id": "freeze-orb",
+  "name": "冰冻球",
+  "detail": "独立冰蓝球体，正面白色雪花，少量霜晶，无底座",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "concept": "concept.png",
+  "generationId": "ae813c0a-44c8-4473-aae5-15ef65ec9dc4",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/ae813c0a-44c8-4473-aae5-15ef65ec9dc4",
+  "rejectedGenerationId": "3da6e810-4685-4eeb-a42d-a80be3438670",
+  "prompt": "Match the uploaded reference: one standalone round ice-blue sphere game powerup, lightly faceted spherical ice surface and a bold white six-arm snowflake emblem on the front, a few tiny frost crystals on upper rim. Keep its lower half completely rounded and spherical. No pedestal, no stand, no cradle, no base, no floor, no environment or particles. The object is a ball alone. Clean cartoon 3D toy-like game item, preserve blue and white colors and prominent snowflake symbol.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: single-object concept reference for a 3D cartoon kart racing game ice powerup. Show exactly ONE standalone round ice-blue sphere with a large clearly visible WHITE SIX-ARM SNOWFLAKE EMBLEM across its front surface. The ball is round with a few gentle large polygon facets, bright cyan glassy icy material, softly rounded edges, and only a few tiny integrated frost crystals around its upper side edge. Sphere floating slightly in empty space against a plain uniform light grey studio backdrop, fully visible, centered with generous margin. The LOWER HALF MUST BE A ROUND SPHERICAL SURFACE, absolutely no pedestal, stand, plinth, bowl, cradle, base, platform or floor prop. Compact instantly readable silhouette. Cheerful premium polished cartoon 3D game art, clean saturated color blocks, soft studio light, crisp edges, subtle icy highlights. No environment, no other objects, no particle cloud, no text, no logo. Snowflake symbol is essential and should face camera.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3742868,
+      "sha256": "c3fada05d1fb173e5ed784653ac31cdf8acd0c9b31708d57c9d6e386558cd037",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1472535
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 181318
+    }
+  }
+}

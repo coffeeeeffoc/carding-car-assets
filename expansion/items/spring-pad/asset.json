@@ -1,0 +1,45 @@
+{
+  "category": "items",
+  "id": "spring-pad",
+  "name": "弹簧板",
+  "detail": "橙色低方底座、清晰银色螺旋弹簧、青色方顶板",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "concept": "concept.png",
+  "generationId": null,
+  "displayUrl": null,
+  "rejectedGenerationId": "c9939878-331b-4232-a363-5f3c368138b4",
+  "prompt": "Match the uploaded reference exactly: one cartoon mechanical jump spring pad. Orange low rounded square bottom base, one thick metallic silver vertical HELICAL COIL SPRING with clearly open gaps between its three turns, small cyan rounded square top plate. Preserve the visible spring and open gaps; spring must not become a column. Single standalone complete object. No car, driver, environment, surrounding floor, display pedestal or text. Clean colorful toy-like game asset.",
+  "imagePrompt": "Use case: stylized-concept. Asset type: single-object concept reference for a 3D cartoon kart racing game jump spring pad. Show exactly ONE compact mechanical springboard, fully visible and isolated on plain light grey studio background, three-quarter view slightly above front, centered with margins. The object consists of THREE distinct readable parts: a low solid orange square base with rounded beveled corners; ONE thick chunky metallic silver HELICAL COIL SPRING with three open turns rising vertically from the center of the base, open gaps between turns clearly visible; a compact flat cyan square top plate with rounded beveled edges supported by the top of the spring. Spring is tall enough to remain very clearly visible beneath top plate, broad round wire, toy-like proportions. Bright polished cartoon 3D, clean color blocks, soft white lighting, crisp silhouette, minimal soft contact shadow. No car, no driver, no road, no environment, no wires, no lettering, no logos, no arrows, no additional platform or display pedestal. Frame entire object without cropping. Orange bottom + silver open spring + cyan top only.",
+  "notes": "两次Rodin结果均没有保留弹簧，最终按参考图用现有Three.js精确建模；Base、Coil、Top三个独立命名网格。静态素材，未接玩法。",
+  "downloaded": true,
+  "sourceFile": "make-model.mjs",
+  "rejectedGenerationIds": [
+    "c9939878-331b-4232-a363-5f3c368138b4",
+    "4f29b5f6-c080-4182-b7e7-a3b0e83f489d"
+  ],
+  "method": "procedural-threejs-reference-guided",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 142744,
+      "sha256": "3a86d0c7181433360b9c59f351bd3b10cf9ad0dd4a5e47eff985e858d0a0c863",
+      "meshes": 3,
+      "triangles": 2520,
+      "materials": 3,
+      "images": 0,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1307546
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 36821
+    }
+  }
+}

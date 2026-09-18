@@ -1,0 +1,42 @@
+{
+  "category": "items",
+  "id": "roadblock",
+  "name": "路障",
+  "detail": "single short portable roadblock, orange and cream diagonal striped rounded horizontal barricade resting on two dark rubber feet, no words",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "d6212397-1e93-48be-8f64-1708ba780498",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/d6212397-1e93-48be-8f64-1708ba780498",
+  "prompt": "One standalone portable safety barricade: chunky horizontal rounded rectangular beam with orange and cream-white diagonal stripes, supported on exactly two short dark posts and two wide black rubber feet. Follow the reference image exactly. Simple connected object, smooth cheerful cartoon materials and rounded corners. No wheels, no seats, no vehicles, no pedestal or shared base under the feet, no scenery, no words.",
+  "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+  "rejectedGenerationId": "f32d1931-d39c-4c95-8705-dc8f4925ab7a",
+  "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single short portable roadblock, orange and cream diagonal striped rounded horizontal barricade resting on two dark rubber feet, no words. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+  "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one SHORT PORTABLE SAFETY BARRICADE. A wide chunky horizontal rounded rectangular beam painted alternating ORANGE and CREAM-WHITE diagonal stripes. Beam supported on exactly TWO short dark posts ending in TWO wide black rubber feet. Simple connected silhouette, robust toy-like proportions, friendly rounded corners, clean smooth cartoon 3D materials. Three-quarter view with front stripe face and both rubber feet clearly visible, centered, entire complete object within image with generous margin. Plain light gray background, soft studio light. Exactly one barricade, no additional objects. NO wheels, NO seats, NO vehicles, NO pedestal, NO shared base platform under the feet, NO scenery, NO cones, NO text, NO logos, NO watermark. Square composition.",
+  "concept": "concept.png",
+  "generationMode": "image-reference",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 2254672,
+      "sha256": "414656987cc4e1da545027b74672e95574e9ff1300984747af7c0e8e766c5225",
+      "meshes": 1,
+      "triangles": 2000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1486156
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 125133
+    }
+  }
+}

@@ -1,0 +1,1561 @@
+[
+  {
+    "category": "drivers",
+    "id": "aviator",
+    "name": "青色飞行员",
+    "detail": "friendly aviator racing driver, teal open-face racing helmet with amber flight goggles, cream short collar, teal racing jumpsuit and cream gloves, brown boots, no wings",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "08aba5c7-a1a9-4048-9553-68cd9e45c805",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/08aba5c7-a1a9-4048-9553-68cd9e45c805",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly aviator racing driver, teal open-face racing helmet with amber flight goggles, cream short collar, teal racing jumpsuit and cream gloves, brown boots, no wings. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3957636,
+        "sha256": "9723840798a84cb81829c60c8153cc710c86796505b5257e7a27bf1790d48586",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 173003
+      }
+    },
+    "directory": "drivers/aviator"
+  },
+  {
+    "category": "drivers",
+    "id": "champion",
+    "name": "黑金冠军",
+    "detail": "confident black and gold champion racing driver, charcoal full-face helmet with golden center panel, matte black racing suit with broad gold shoulders and cuffs, gold gloves, black boots, no crown",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "0322a879-9002-4711-80c6-aec44016dd3c",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/0322a879-9002-4711-80c6-aec44016dd3c",
+    "prompt": "One original cute stylized toy-like human racing driver character: confident black and gold champion racing driver, charcoal full-face helmet with golden center panel, matte black racing suit with broad gold shoulders and cuffs, gold gloves, black boots, no crown. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3991588,
+        "sha256": "630cf8698b0b5d9d8d6b89b53bb1fafb47c4786ca4295113fecfe6b916b5238f",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 161662
+      }
+    },
+    "directory": "drivers/champion"
+  },
+  {
+    "category": "drivers",
+    "id": "explorer",
+    "name": "沙漠探险者",
+    "detail": "friendly desert explorer racing driver, sand beige helmet with amber goggles, compact teal neck scarf close to body, tan racing jumpsuit and padded gloves, brown ankle boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "fefc8173-f384-4c9a-95e5-1199ac24795f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/fefc8173-f384-4c9a-95e5-1199ac24795f",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly desert explorer racing driver, sand beige helmet with amber goggles, compact teal neck scarf close to body, tan racing jumpsuit and padded gloves, brown ankle boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3455528,
+        "sha256": "2b2412b712ccda1d1495235b03c2cf2a44a7c856215e343a3cbb456a48842879",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 138926
+      }
+    },
+    "directory": "drivers/explorer"
+  },
+  {
+    "category": "drivers",
+    "id": "future-pilot",
+    "name": "紫色未来车手",
+    "detail": "friendly futuristic racing driver, purple helmet with cyan visor band, deep violet racing suit with simple cyan strips, sleek gloves and boots, no weapon",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "3fee6b19-b4cb-4d8e-b3cf-c009ea952ccc",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/3fee6b19-b4cb-4d8e-b3cf-c009ea952ccc",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly futuristic racing driver, purple helmet with cyan visor band, deep violet racing suit with simple cyan strips, sleek gloves and boots, no weapon. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3980756,
+        "sha256": "1601fdd327c7812736fe0251fc04563915946a9c1fba1927c9d36e130ebe96c7",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 144385
+      }
+    },
+    "directory": "drivers/future-pilot"
+  },
+  {
+    "category": "drivers",
+    "id": "mechanic",
+    "name": "蓝色技师",
+    "detail": "friendly cobalt blue and yellow mechanic racing driver, round blue racing helmet with goggles resting above eyes, blue jumpsuit with broad yellow shoulder pads, sturdy gloves and boots, no loose tools",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "c8be8430-0b9d-4b15-9eea-c77458031aa4",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/c8be8430-0b9d-4b15-9eea-c77458031aa4",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly cobalt blue and yellow mechanic racing driver, round blue racing helmet with goggles resting above eyes, blue jumpsuit with broad yellow shoulder pads, sturdy gloves and boots, no loose tools. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "A-pose 静态车手；尚未绑定、坐姿或动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3529240,
+        "sha256": "b1664c89da696fee605942e492d8654f860eb2a0a61c38a19d3c6959b9d25187",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 148642
+      }
+    },
+    "directory": "drivers/mechanic"
+  },
+  {
+    "category": "drivers",
+    "id": "polar-guide",
+    "name": "冰原向导",
+    "detail": "friendly polar expedition racing driver, ice blue round helmet with wide violet visor, white insulated racing suit with orange patches, padded mitt-like gloves and snow boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "2c1e1950-19c4-43ef-8a12-0ef7c2af10b5",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/2c1e1950-19c4-43ef-8a12-0ef7c2af10b5",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly polar expedition racing driver, ice blue round helmet with wide violet visor, white insulated racing suit with orange patches, padded mitt-like gloves and snow boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3780464,
+        "sha256": "fbfbb63af621b9cf6a203a3a00087e73ebc47e63c311c53dda6693f969229601",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 170142
+      }
+    },
+    "directory": "drivers/polar-guide"
+  },
+  {
+    "category": "drivers",
+    "id": "ranger",
+    "name": "绿色巡护员",
+    "detail": "friendly nature ranger racing driver, forest green open-face helmet showing warm smiling face, green racing suit with cream vest panels, brown gloves and boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "15203335-5109-420e-a583-afe1101483fa",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/15203335-5109-420e-a583-afe1101483fa",
+    "prompt": "One original cute stylized toy-like human racing driver character: friendly nature ranger racing driver, forest green open-face helmet showing warm smiling face, green racing suit with cream vest panels, brown gloves and boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3521060,
+        "sha256": "cbff824f0b427729a5a8cb900492f42d4d72ad47e8cb2a7e2681c4b768919b5c",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 148882
+      }
+    },
+    "directory": "drivers/ranger"
+  },
+  {
+    "category": "drivers",
+    "id": "rookie",
+    "name": "橙白新秀",
+    "detail": "friendly orange and cream rookie racing driver, large orange full-face helmet with cream center stripe and dark closed visor, orange jumpsuit, cream gloves and boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "467960f9-4ead-4177-9a0f-41c3817d3ca0",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/467960f9-4ead-4177-9a0f-41c3817d3ca0",
+    "prompt": "Standalone full-body orange and cream helmeted toy human figurine exactly as reference. Standing upright A-pose, arms diagonal away from torso, two straight legs, both boots on ground level. Character alone. No wheels, vehicle, seat, base or accessories. Match orange suit, cream gloves and boots, orange helmet with cream stripe, opaque dark visor. Rounded cartoon game model, no lettering.",
+    "notes": "参考图重制的独立静态车手；首版带车轮模型已弃用。尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "rejectedGenerationId": "0726ceb3-c175-4637-9424-48674afec29a",
+    "imagePrompt": "Use case: stylized-concept. Asset type: full-body standalone character reference for 3D modeling. Create ONE original orange-and-cream racing-suit toy human character, standing upright in a clear symmetrical A-pose, legs straight with feet apart, arms extended diagonally down and away from torso, both full gloved hands visible. Large rounded orange full-face helmet with ONE broad cream center stripe and a dark closed visor. Orange one-piece jumpsuit, cream belt stripe, cream gloves and cream boots. Friendly compact proportions, helmet one third total height. Clean rounded high-quality stylized 3D mobile-game character, soft colors, frontal three-quarter view, full figure head to toes comfortably in frame, neutral pale grey background. Absolutely CHARACTER ONLY. No car, wheels, vehicle parts, seat, steering wheel, props, pedestal, captions, letters, logos or watermark.",
+    "concept": "concept.png",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3550748,
+        "sha256": "5d2f0695a68ff2ab49d3943f285a9865b3f926e9a07f3abef216f520fa67c670",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1024,
+        "height": 1536,
+        "bytes": 1787962
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 132615
+      }
+    },
+    "directory": "drivers/rookie"
+  },
+  {
+    "category": "drivers",
+    "id": "speedster",
+    "name": "红色竞速手",
+    "detail": "confident red and white racing driver, sleek scarlet helmet with dark visor and white side panels, fitted red racing suit, white gloves and boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "0ee56d6c-eb22-46de-96ca-55b986d4c9d5",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/0ee56d6c-eb22-46de-96ca-55b986d4c9d5",
+    "prompt": "One original cute stylized toy-like human racing driver character: confident red and white racing driver, sleek scarlet helmet with dark visor and white side panels, fitted red racing suit, white gloves and boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3463116,
+        "sha256": "3ff6d98dc325c94634c8bf4c014aa947a74fdf819a93db42e4cf3b7a92ee75ad",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 152460
+      }
+    },
+    "directory": "drivers/speedster"
+  },
+  {
+    "category": "drivers",
+    "id": "street-racer",
+    "name": "粉色街头车手",
+    "detail": "cheerful pink and navy street racing driver, magenta full-face helmet with dark visor and short decorative ear-like vents, pink racing jacket shaped jumpsuit, navy gloves and chunky boots",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "5afc6832-3878-4175-8cc7-88c0ee600571",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/5afc6832-3878-4175-8cc7-88c0ee600571",
+    "prompt": "One original cute stylized toy-like human racing driver character: cheerful pink and navy street racing driver, magenta full-face helmet with dark visor and short decorative ear-like vents, pink racing jacket shaped jumpsuit, navy gloves and chunky boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+    "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3553740,
+        "sha256": "2cd071b50040ff2c6ee4e780e2ad708372b0afd759489db17d197f4dc7b33943",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 134724
+      }
+    },
+    "directory": "drivers/street-racer"
+  },
+  {
+    "category": "items",
+    "id": "boost-pad",
+    "name": "加速板",
+    "detail": "single low rectangular racing boost pad, dark navy base, bright cyan illuminated two forward chevrons, orange edge bumper, bevelled edges, no ground",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "80577f16-eb7c-47be-ba6b-16995c332bad",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/80577f16-eb7c-47be-ba6b-16995c332bad",
+    "prompt": "One very low flat rectangular directional panel, dark navy blue shallow slab with exactly two bright cyan forward-pointing chevrons inset on its top and thin orange edge trim. Follow reference image exactly. Rounded bevels, smooth colorful cartoon material, a single thin flat panel. No wheels, no seats, no vehicles, no pedestal, no scenery.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "rejectedGenerationId": "657d800b-6e12-46f3-abe3-5e54e961282f",
+    "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single low rectangular racing boost pad, dark navy base, bright cyan illuminated two forward chevrons, orange edge bumper, bevelled edges, no ground. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one VERY LOW FLAT rectangular directional BOOST PAD, dark navy blue slab only, beveled rounded corners, bright cyan TWO large forward-pointing chevrons inset on its flat top surface, thin orange protective trim around its four edges. Proportions like a shallow flat rectangular floor panel, width 1, length 1.5, thickness only 0.06. Cheerful polished cartoon 3D, smooth rounded toy-like shape, clean vivid materials. Elevated three-quarter view so its full top and thin side edges are clearly visible, entire object centered with generous margin, plain light gray background, soft studio lighting. Exactly one flat panel and nothing else. NO wheels, NO axles, NO seats, NO vehicles, NO pedestal, NO separate base platform, NO raised structure, NO text, NO scenery, NO logo, NO watermark. Square composition.",
+    "concept": "concept.png",
+    "generationMode": "image-reference",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2331964,
+        "sha256": "f9aeabbc77b895277b8437e1cff2b0fa64749faa5a64f14e90a5eaa7bfb6e5b6",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1206122
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 114360
+      }
+    },
+    "directory": "items/boost-pad"
+  },
+  {
+    "category": "items",
+    "id": "coin",
+    "name": "金币",
+    "detail": "single thick golden collectible coin standing upright, bevelled rim and simple embossed star on face, original unbranded, no lettering",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "2bda49da-93fa-426f-8e23-5609fb6dded9",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/2bda49da-93fa-426f-8e23-5609fb6dded9",
+    "prompt": "One original stylized cartoon 3D kart racing game item: single thick golden collectible coin standing upright, bevelled rim and simple embossed star on face, original unbranded, no lettering. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "notes": "静态道具美术源模型；玩法、碰撞及特效尚未接入。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2874320,
+        "sha256": "9145c322582f2dee44d2df4af47c0446981bcd3dfede932a6653b35749f73c10",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 168307
+      }
+    },
+    "directory": "items/coin"
+  },
+  {
+    "category": "items",
+    "id": "freeze-orb",
+    "name": "冰冻球",
+    "detail": "独立冰蓝球体，正面白色雪花，少量霜晶，无底座",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "concept": "concept.png",
+    "generationId": "ae813c0a-44c8-4473-aae5-15ef65ec9dc4",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/ae813c0a-44c8-4473-aae5-15ef65ec9dc4",
+    "rejectedGenerationId": "3da6e810-4685-4eeb-a42d-a80be3438670",
+    "prompt": "Match the uploaded reference: one standalone round ice-blue sphere game powerup, lightly faceted spherical ice surface and a bold white six-arm snowflake emblem on the front, a few tiny frost crystals on upper rim. Keep its lower half completely rounded and spherical. No pedestal, no stand, no cradle, no base, no floor, no environment or particles. The object is a ball alone. Clean cartoon 3D toy-like game item, preserve blue and white colors and prominent snowflake symbol.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: single-object concept reference for a 3D cartoon kart racing game ice powerup. Show exactly ONE standalone round ice-blue sphere with a large clearly visible WHITE SIX-ARM SNOWFLAKE EMBLEM across its front surface. The ball is round with a few gentle large polygon facets, bright cyan glassy icy material, softly rounded edges, and only a few tiny integrated frost crystals around its upper side edge. Sphere floating slightly in empty space against a plain uniform light grey studio backdrop, fully visible, centered with generous margin. The LOWER HALF MUST BE A ROUND SPHERICAL SURFACE, absolutely no pedestal, stand, plinth, bowl, cradle, base, platform or floor prop. Compact instantly readable silhouette. Cheerful premium polished cartoon 3D game art, clean saturated color blocks, soft studio light, crisp edges, subtle icy highlights. No environment, no other objects, no particle cloud, no text, no logo. Snowflake symbol is essential and should face camera.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3742868,
+        "sha256": "c3fada05d1fb173e5ed784653ac31cdf8acd0c9b31708d57c9d6e386558cd037",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1472535
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 181318
+      }
+    },
+    "directory": "items/freeze-orb"
+  },
+  {
+    "category": "items",
+    "id": "magnet",
+    "name": "磁铁",
+    "detail": "single chunky red horseshoe magnet powerup, two cream metallic end caps, rounded edges, broad U silhouette, no particles",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "ac9ad1f2-6d97-4b6a-b8ee-6a649422f0a0",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/ac9ad1f2-6d97-4b6a-b8ee-6a649422f0a0",
+    "prompt": "Create exactly one standalone red horseshoe magnet matching the reference image, a broad smooth U shaped red solid with two ivory white metallic end caps. Preserve the large hollow opening, smooth rounded edges and simple cartoon materials. Do not model gray background. No wheels, tires, chassis, vehicle, stand, base, pedestal, particles or extra objects.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "downloaded": true,
+    "rejectedGenerationId": "8686df17-28ff-47e3-85c1-7919f42c166e",
+    "concept": "concept.png",
+    "imagePrompt": "Use case: stylized-concept. Asset type: single-object 3D modeling reference. ONE red horseshoe magnet, clean broad U shape with two parallel straight ends, glossy rounded red body and two ivory-white metallic end caps. Magnet lies flat at a slight diagonal, three-quarter elevated camera makes full U silhouette and broad hollow opening clear. Solid chunky but simple toy-like cartoon 3D style, smooth beveled corners, neutral gray studio background with soft light. Entire magnet centered with generous margins. Magnet only: no vehicle, no wheels, no tires, no stand, no base, no pedestal, no handle, no particles, no accessories, no text, no watermark.",
+    "referenceUploadId": "fc97ad60-e62a-4535-ab6e-b0e4f62a6c6c",
+    "generationParameters": {
+      "geometry_file_format": "glb",
+      "quality_override": 2000,
+      "mesh_mode": "Raw",
+      "tier": "Gen-2.5-Medium"
+    },
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2326780,
+        "sha256": "273f88b9cc831b65a04e5033de37cdb0b241215b0c1d87015d13aad6eccd973c",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1374,
+        "height": 1145,
+        "bytes": 1483226
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 99162
+      }
+    },
+    "directory": "items/magnet"
+  },
+  {
+    "category": "items",
+    "id": "mystery-box",
+    "name": "随机道具箱",
+    "detail": "紫色圆角方盒、青色护角、正面清晰黄色问号",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "concept": "concept.png",
+    "generationId": "dc9a4991-2e61-4c4a-8792-4a61502c0197",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/dc9a4991-2e61-4c4a-8792-4a61502c0197",
+    "rejectedGenerationId": "14aa641e-0cd5-4a4d-a689-1acdc68b732d",
+    "prompt": "Match the uploaded reference exactly: one rounded purple mystery item cube with bright cyan corner bumpers. Each vertical face has a LARGE clear raised bright yellow QUESTION MARK including a curved hook and separate round dot. Preserve the question mark signs, these are essential identity; do not make blank faces. Purple cube, cyan protective corners, yellow question marks. Single complete isolated object with no stand, no surrounding floor, no scene, no particles. Polished rounded cartoon game collectible.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: one single-object concept reference for a 3D cartoon kart racing mystery item box. Exactly ONE compact rounded VIOLET PURPLE CUBE with chunky CYAN CORNER BUMPERS, isolated fully visible on plain light grey studio background. Each of the TWO VISIBLE VERTICAL FACES prominently carries a LARGE bright WARM YELLOW QUESTION MARK '?' symbol, including the separate round DOT under the curved hook. The front question mark must be instantly legible, simple bold rounded raised shape, yellow against purple. Slight bevelled outline of a lid is okay but shape remains a cube. Three-quarter view slightly above front showing front, side, and top, centered with wide margins; no cropping. Premium cheerful polished cartoon 3D, soft round corners, bright color blocks, glossy painted plastic, soft white studio lighting and minimal contact shadow. Absolutely not a blank box. Do not omit or distort the question mark, it is the identity of this item. No other lettering, no logos, no pedestal, no floor prop, no road, no car, no environment, no particles, no additional objects.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3298132,
+        "sha256": "765ccc337f2bfcf1299e575785009ebf4357f86e3a62ed92204827dee5fad7c5",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1427524
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 233056
+      }
+    },
+    "directory": "items/mystery-box"
+  },
+  {
+    "category": "items",
+    "id": "nitro",
+    "name": "氮气瓶",
+    "detail": "single squat cyan metal nitro boost bottle with orange cap, chunky rounded shape, one white lightning symbol without text, simple side handles",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "0a21aeae-4865-425e-ad4a-7b6ae84deb85",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/0a21aeae-4865-425e-ad4a-7b6ae84deb85",
+    "prompt": "One standalone upright squat cyan metal bottle with an orange screw cap, white lightning bolt on front and small side handles. Follow the reference image exactly: rounded cylindrical canister, single complete object, colorful smooth cartoon 3D. No wheels, no seats, no vehicles, no pedestal, no scenery.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "rejectedGenerationId": "47d4af17-13ec-4acf-b88b-b2e6dd5223b9",
+    "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single squat cyan metal nitro boost bottle with orange cap, chunky rounded shape, one white lightning symbol without text, simple side handles. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one squat upright CYAN metal energy bottle, with a large ORANGE screw cap and one simple white lightning bolt on its front. The entire object is an upright short cylindrical canister with rounded shoulder, flat circular bottom and small simple side handles. Cheerful polished cartoon 3D render with smooth rounded toy-like shapes, clear color blocks, soft warm highlights. Three-quarter view, centered, whole bottle visible with plenty of margin, plain light gray background, soft studio lighting, no cast floor platform. Exactly one bottle and nothing else. NO wheels, NO seats, NO vehicles, NO base plinth, NO pedestal, NO tubes trailing away, NO scenery, NO text, NO logo, NO watermark. Square composition.",
+    "concept": "concept.png",
+    "generationMode": "image-reference",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3196352,
+        "sha256": "3cb4c0d3248502ca1d001e4954985e8a8b62e0e61e89bbee1b69f48ea9ab0cdb",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1291302
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 137617
+      }
+    },
+    "directory": "items/nitro"
+  },
+  {
+    "category": "items",
+    "id": "oil-slick",
+    "name": "油渍",
+    "detail": "single flat irregular glossy black oil slick with violet blue iridescent rim, very thin solid puddle mesh, one compact organic silhouette, no can no floor",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "36e63d12-6058-4977-bfbc-2664049519ad",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/36e63d12-6058-4977-bfbc-2664049519ad",
+    "prompt": "Create only the single irregular oil spill from the reference image, a nearly flat wafer thin puddle mesh with glossy black surface and subtle violet blue iridescent edge. Preserve organic silhouette. Width at least 60 times thickness. Do not model gray background. No container, plate, foundation, wheels, vehicle, support or pedestal.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "downloaded": true,
+    "rejectedGenerationId": "c186b8fa-c8f2-4e16-9e4c-19e7bacefbbc",
+    "concept": "concept.png",
+    "imagePrompt": "Use case: stylized-concept. Asset type: single-object 3D modeling reference. ONE extremely thin flat irregular puddle of spilled oil on neutral light gray background. Camera almost top-down with a very slight three-quarter angle so its wafer-thin edge is visible. Compact organic lobed silhouette, mostly glossy dark black with delicate purple blue iridescence at the edges, a few broad soft reflection shapes. Stylized rounded cartoon surface, simple clear form. Oil surface hugs an imaginary flat ground; thickness is tiny relative to its width, like a spill not a slab. Entire puddle visible centered with margin. No container, no can, no bucket, no tire, no wheel, no vehicle, no supports, no pedestal, no rectangular base, no island, no floating objects, no text or watermark. Only the irregular puddle is the subject.",
+    "referenceUploadId": "78a7cd5c-4ac7-4168-a779-be2496c34220",
+    "generationParameters": {
+      "geometry_file_format": "glb",
+      "quality_override": 2000,
+      "mesh_mode": "Raw",
+      "tier": "Gen-2.5-Medium"
+    },
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2858376,
+        "sha256": "13846642d1531336fd874ca626151a4f54f84c98e12df295d2cce70a98b34580",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1646168
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 73108
+      }
+    },
+    "directory": "items/oil-slick"
+  },
+  {
+    "category": "items",
+    "id": "repair-kit",
+    "name": "修理箱",
+    "detail": "single small red rounded tool case repair powerup, cream handle and latch, raised cream simple wrench emblem, closed case, no letters",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "b5d99f77-90cb-4a9c-ba74-59dd4b66b30f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/b5d99f77-90cb-4a9c-ba74-59dd4b66b30f",
+    "prompt": "One original stylized cartoon 3D kart racing game item: single small red rounded tool case repair powerup, cream handle and latch, raised cream simple wrench emblem, closed case, no letters. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "notes": "静态道具美术源模型；玩法、碰撞及特效尚未接入。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3344728,
+        "sha256": "5acabe05aeffde40690dbb3acaf3888951d554da2d212ae8bf2119684d5225b1",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 173010
+      }
+    },
+    "directory": "items/repair-kit"
+  },
+  {
+    "category": "items",
+    "id": "roadblock",
+    "name": "路障",
+    "detail": "single short portable roadblock, orange and cream diagonal striped rounded horizontal barricade resting on two dark rubber feet, no words",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "d6212397-1e93-48be-8f64-1708ba780498",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/d6212397-1e93-48be-8f64-1708ba780498",
+    "prompt": "One standalone portable safety barricade: chunky horizontal rounded rectangular beam with orange and cream-white diagonal stripes, supported on exactly two short dark posts and two wide black rubber feet. Follow the reference image exactly. Simple connected object, smooth cheerful cartoon materials and rounded corners. No wheels, no seats, no vehicles, no pedestal or shared base under the feet, no scenery, no words.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "rejectedGenerationId": "f32d1931-d39c-4c95-8705-dc8f4925ab7a",
+    "rejectedPrompt": "One original stylized cartoon 3D kart racing game item: single short portable roadblock, orange and cream diagonal striped rounded horizontal barricade resting on two dark rubber feet, no words. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "imagePrompt": "Use case: stylized-concept. Single standalone object reference for 3D modeling: one SHORT PORTABLE SAFETY BARRICADE. A wide chunky horizontal rounded rectangular beam painted alternating ORANGE and CREAM-WHITE diagonal stripes. Beam supported on exactly TWO short dark posts ending in TWO wide black rubber feet. Simple connected silhouette, robust toy-like proportions, friendly rounded corners, clean smooth cartoon 3D materials. Three-quarter view with front stripe face and both rubber feet clearly visible, centered, entire complete object within image with generous margin. Plain light gray background, soft studio light. Exactly one barricade, no additional objects. NO wheels, NO seats, NO vehicles, NO pedestal, NO shared base platform under the feet, NO scenery, NO cones, NO text, NO logos, NO watermark. Square composition.",
+    "concept": "concept.png",
+    "generationMode": "image-reference",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2254672,
+        "sha256": "414656987cc4e1da545027b74672e95574e9ff1300984747af7c0e8e766c5225",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1486156
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 125133
+      }
+    },
+    "directory": "items/roadblock"
+  },
+  {
+    "category": "items",
+    "id": "shield",
+    "name": "护盾",
+    "detail": "single compact shield powerup object, rounded cyan shield shape with thick cream edge and small yellow central diamond, chunky solid readable shape, no text",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "8b15e808-238a-4b22-80df-c543c3a3d991",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/8b15e808-238a-4b22-80df-c543c3a3d991",
+    "prompt": "One original stylized cartoon 3D kart racing game item: single compact shield powerup object, rounded cyan shield shape with thick cream edge and small yellow central diamond, chunky solid readable shape, no text. Single standalone object, centered, no scenery, no floor, no pedestal, no label or logo, no floating VFX. Rounded toy-like forms, bold silhouette readable from chase camera, vivid clean painted materials, cohesive cheerful mobile racing game style.",
+    "notes": "静态道具美术源模型；玩法、碰撞及特效尚未接入。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3047544,
+        "sha256": "147bd271b8e97b1fec7557a0471c33990a6d2662ad2fddf7aa3f3904e94efb1e",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 172632
+      }
+    },
+    "directory": "items/shield"
+  },
+  {
+    "category": "items",
+    "id": "spring-pad",
+    "name": "弹簧板",
+    "detail": "橙色低方底座、清晰银色螺旋弹簧、青色方顶板",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "concept": "concept.png",
+    "generationId": null,
+    "displayUrl": null,
+    "rejectedGenerationId": "c9939878-331b-4232-a363-5f3c368138b4",
+    "prompt": "Match the uploaded reference exactly: one cartoon mechanical jump spring pad. Orange low rounded square bottom base, one thick metallic silver vertical HELICAL COIL SPRING with clearly open gaps between its three turns, small cyan rounded square top plate. Preserve the visible spring and open gaps; spring must not become a column. Single standalone complete object. No car, driver, environment, surrounding floor, display pedestal or text. Clean colorful toy-like game asset.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: single-object concept reference for a 3D cartoon kart racing game jump spring pad. Show exactly ONE compact mechanical springboard, fully visible and isolated on plain light grey studio background, three-quarter view slightly above front, centered with margins. The object consists of THREE distinct readable parts: a low solid orange square base with rounded beveled corners; ONE thick chunky metallic silver HELICAL COIL SPRING with three open turns rising vertically from the center of the base, open gaps between turns clearly visible; a compact flat cyan square top plate with rounded beveled edges supported by the top of the spring. Spring is tall enough to remain very clearly visible beneath top plate, broad round wire, toy-like proportions. Bright polished cartoon 3D, clean color blocks, soft white lighting, crisp silhouette, minimal soft contact shadow. No car, no driver, no road, no environment, no wires, no lettering, no logos, no arrows, no additional platform or display pedestal. Frame entire object without cropping. Orange bottom + silver open spring + cyan top only.",
+    "notes": "两次Rodin结果均没有保留弹簧，最终按参考图用现有Three.js精确建模；Base、Coil、Top三个独立命名网格。静态素材，未接玩法。",
+    "downloaded": true,
+    "sourceFile": "make-model.mjs",
+    "rejectedGenerationIds": [
+      "c9939878-331b-4232-a363-5f3c368138b4",
+      "4f29b5f6-c080-4182-b7e7-a3b0e83f489d"
+    ],
+    "method": "procedural-threejs-reference-guided",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 142744,
+        "sha256": "3a86d0c7181433360b9c59f351bd3b10cf9ad0dd4a5e47eff985e858d0a0c863",
+        "meshes": 3,
+        "triangles": 2520,
+        "materials": 3,
+        "images": 0,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1307546
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 36821
+      }
+    },
+    "directory": "items/spring-pad"
+  },
+  {
+    "category": "items",
+    "id": "watermelon-peel",
+    "name": "西瓜皮",
+    "detail": "single slippery curved watermelon rind lying on its side, saturated green striped skin, cream inner layer, thin red fruit remnants, curved boat-like crescent silhouette, clear three-dimensional object",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "30a80b4f-3ece-4b5b-ad9f-9bafcf6d966a",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/30a80b4f-3ece-4b5b-ad9f-9bafcf6d966a",
+    "prompt": "Create exactly the single eaten watermelon rind in the reference image. A thin curved hollow green striped rind with cream white interior and only thin red flesh remnants on the edge. Keep its crescent silhouette, hollow interior and rounded cartoon material. Model the rind alone, not the gray background. No solid fruit wedge, no base, tray, cutting board, wheels, vehicle or pedestal.",
+    "notes": "已用独立物件参考图重新生成，首版弃用；静态道具源模型，尚未接入玩法、碰撞或特效。",
+    "downloaded": true,
+    "rejectedGenerationId": "7bebb28c-84ca-4c8b-9d62-83d1719cebd8",
+    "concept": "concept.png",
+    "imagePrompt": "Use case: stylized-concept. Asset type: single-object 3D modeling reference. A single eaten watermelon rind, a THIN curved crescent strip, green striped outer skin, cream-white inner layer with only tiny thin traces of red remaining fruit along its rim. Concave inside is hollow and clearly visible from slightly elevated three-quarter view, rind lying naturally on one side. The whole object fits inside a clean neutral gray studio background, centered, rounded cartoon 3D render with simple clean materials and readable silhouette. This is ONLY the empty watermelon rind, no solid red wedge, no full fruit flesh, no board, no tray, no stand, no pedestal, no chassis, no wheels, no tires, no vehicle, no text, no watermark. One object only.",
+    "referenceUploadId": "53204c30-717e-47db-971c-7a7c2ad000a4",
+    "generationParameters": {
+      "geometry_file_format": "glb",
+      "quality_override": 2000,
+      "mesh_mode": "Raw",
+      "tier": "Gen-2.5-Medium"
+    },
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3222756,
+        "sha256": "f1682d5b399165a732867cfb94fb8a47ee715a4b7e972ecc44aae66db3eee692",
+        "meshes": 1,
+        "triangles": 2000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1647605
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 104564
+      }
+    },
+    "directory": "items/watermelon-peel"
+  },
+  {
+    "id": "city",
+    "name": "城市",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "road-texture.png",
+    "model": "model.glb",
+    "generationId": "92808e55-7e2a-40e5-99bc-9c28a60a51c9",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/92808e55-7e2a-40e5-99bc-9c28a60a51c9",
+    "status": "validated-static-source",
+    "notes": [
+      "效果图已先完成，再生成道路纹理并提交静态场景模型。",
+      "concept.png: 真 PNG，1672 x 941；road-texture.png: 真 PNG，1254 x 1254。",
+      "纹理无标线、无透视；可平铺为生成目标，尚未验证边缘像素连续性。",
+      "未改动运行时代码；未完成碰撞、移动端性能或 Cocos 导入验证。"
+    ],
+    "validation": {
+      "model": {
+        "bytes": 5783732,
+        "sha256": "0de6155bc98ef4234384ec8fda7592b7da88ec9e81aa2a447950c4e40e195673",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2187480
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 206450
+      },
+      "road-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 3486484
+      }
+    },
+    "generation": {
+      "provider": "Hyper3D Rodin",
+      "tier": "Gen-2.5-Medium",
+      "meshMode": "Raw",
+      "targetPolygons": 18000
+    },
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "directory": "scenes/city"
+  },
+  {
+    "id": "danxia",
+    "name": "七彩丹霞",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "rock-texture.png",
+    "model": "model.glb",
+    "generationId": "533a8482-38bd-4530-bdf4-1b01d9f80531",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/533a8482-38bd-4530-bdf4-1b01d9f80531",
+    "status": "validated-static-source",
+    "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+    "downloaded": true,
+    "rejectedGenerationId": "03e64444-9484-4c38-a058-6ca0a5df44e6",
+    "reference": "asset-reference.png",
+    "prompt": "Reconstruct the uploaded image as one complete cartoon 3D Danxia racing terrain diorama. Preserve its THIN base, ROUND hills with red orange ochre cream and gray-green geological color stripes, wide dark asphalt S-bend crossing from edge to edge, white guardrails, and small wooden viewing pavilion. Keep the road clearly visible and continuous. Do not turn it into a box or tall vertical canyon walls. No background plane, no text, people or cars. Static environment visual prototype.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: isolated 3D game environment model reference, square studio render. Use the provided Danxia concept ONLY as the style and natural geological color reference, redesign its composition into ONE compact self-contained low-thickness terrain diorama fully visible with margins on plain light gray studio background. 45-degree elevated three-quarter view. Three smooth ROUND low Danxia hills and long rounded ridgelines with very clear broad alternating geological stripes: brick RED, burnt ORANGE, ochre YELLOW, cream, and muted gray GREEN. Color strata visibly wrap around all hills, warm playful polished cartoon 3D, large readable color blocks, soft bevels and gentle highlights. A broad unmistakable DARK GRAY ASPHALT S-shaped racetrack passes uninterrupted from one edge of the tile to the opposite edge with distinct white edging and WHITE protective guardrails. Track remains exposed to camera, no hills hide it. One small wooden scenic viewing pavilion beside road. Very thin irregular rounded terrain slab; slab thickness only 1/15 of total footprint width, low hills rise naturally above it. Full asset including slab underside and all silhouette edges fits in frame. NO tall rectangular cliffs, NO canyon box, NO cubic mountains, NO massive vertical walls. No background landscape, no sky, no vehicles, no people, no text, no logo, no watermark.",
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 5751488,
+        "sha256": "70f77a6dabe41ff27ce3ae9a7f7e226d1045cdf4ebe421d23c0fb685e4fc60e3",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "asset-reference.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2382848
+      },
+      "concept.png": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2934427
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 171035
+      },
+      "rock-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2619897
+      }
+    },
+    "directory": "scenes/danxia"
+  },
+  {
+    "id": "desert",
+    "name": "沙漠",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "ground-texture.png",
+    "model": "model.glb",
+    "generationId": "192ceb89-dec8-4f5e-b951-2ff863c73744",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/192ceb89-dec8-4f5e-b951-2ff863c73744",
+    "status": "validated-static-source",
+    "validation": {
+      "model": {
+        "bytes": 5658736,
+        "sha256": "59ad286435bee186ef44f317acd411a531cca6fb1ba04b48ad9b2b9807a7ae99",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "asset-reference.png": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2172380
+      },
+      "concept.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2223283
+      },
+      "ground-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2921339
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 182315
+      }
+    },
+    "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+    "downloaded": true,
+    "rejectedGenerationId": "9163c7a9-ccbb-4ed4-881d-594b4d2eb816",
+    "reference": "asset-reference.png",
+    "prompt": "Reconstruct this complete isolated desert circuit terrain diorama from the reference image. Essential geometry: a clearly visible BROAD dark gray asphalt S-bend road crossing from front-left to rear-right, continuous safety barriers and red-white curbs bordering BOTH road sides along its full length; one cream low supply-station building with orange awning beside the road. Also preserve the solid low golden sand terrain base, two wind-eroded rock pillars and small turquoise oasis with palms. Road and building must be present and remain dominant recognizable features. Full complete asset; round clean colorful cartoon materials. No vehicles, characters, text, sky or background plane. Model all the reference terrain as one environment static prototype; do not reduce it to an oasis only.",
+    "imagePrompt": "Use case: stylized-concept. Create a new 3D modeling reference image using the supplied desert concept image ONLY as a style and palette reference. Subject: ONE complete isolated SOLID low terrain diorama of a desert race circuit. Entire terrain base and all objects fully in frame, generous margin, plain light-gray studio background, no sky or horizon. Camera at 45-degree downward isometric view. MOST IMPORTANT: a clearly visible wide dark-gray ASPHALT S-BEND ROAD crosses the terrain from the front-left edge to the rear-right edge; asphalt is an obvious distinct raised road surface at least one-third of terrain width, with continuous chunky red-and-white safety barriers bordering BOTH edges along both curves. Road is not buried by sand or blocked by any object. Golden rounded LOW sand dunes on a low solid rectangular sand terrain base, exactly two chunky amber wind-eroded rock pillars, one small turquoise oasis with two palms, and ONE clearly recognizable low cream-white roadside supply station building with orange awning, doorway and windows. Place the supply station beside the track visibly separated from the rock pillars, large enough to recognize. Restrained detail, rounded cartoon 3D toy-like forms, warm clean colors matching the reference. No vehicles, people, text, UI, logos or floating decorations. This must look like a complete buildable miniature circuit asset, not a landscape crop or open background.",
+    "referenceUploadId": "ef497c26-9a80-4199-9ad9-a608ab23c96b",
+    "generationParameters": {
+      "geometry_file_format": "glb",
+      "quality_override": 18000,
+      "mesh_mode": "Raw",
+      "tier": "Gen-2.5-Medium"
+    },
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "directory": "scenes/desert"
+  },
+  {
+    "id": "glacier",
+    "name": "冰川",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "ice-texture.png",
+    "model": "model.glb",
+    "generationId": "8095d8b3-6dfb-43da-ad68-9df9d49ab51a",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/8095d8b3-6dfb-43da-ad68-9df9d49ab51a",
+    "status": "validated-static-source",
+    "notes": [
+      "效果图先于素材生成，图片使用内置 image_gen。",
+      "纹理按可平铺要求生成；材质接缝尚未复核。",
+      "静态场景地块美术原型，碰撞、Cocos 导入与移动端性能未验证。"
+    ],
+    "validation": {
+      "model": {
+        "bytes": 4859468,
+        "sha256": "a4298d91d40d1717ae90733d741fe242ed4cc3df9ce03814f80e93fe6c325527",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "concept.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2195996
+      },
+      "ice-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2261156
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 195889
+      }
+    },
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "directory": "scenes/glacier"
+  },
+  {
+    "id": "highland",
+    "name": "高原与高山",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "ground-texture.png",
+    "model": "model.glb",
+    "reference": "asset-reference.png",
+    "rejectedGenerationId": "e7a7f805-527e-42aa-896d-63b42ba012e4",
+    "generationId": "4e6ee855-ac1e-47c0-9d46-a08d9f9ba30e",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/4e6ee855-ac1e-47c0-9d46-a08d9f9ba30e",
+    "status": "validated-static-source",
+    "downloaded": true,
+    "prompt": "Faithfully reconstruct the entire reference diorama as a textured 3D asset. Preserve the very tall white snow-covered rear main peak and two smaller snowy side peaks, gray exposed rock, broad open dark asphalt mountain hairpins with stone retaining walls and continuous guardrails, red-white curbs, and clearly visible orange-roof stone mountain-pass lodge on front-right terrace. Preserve strong vertical mountain height, all peaks fully modeled in geometry and snow visibly white. Single connected thin-base rocky terrain tile, no thick pedestal, no background plane. Original bright rounded cartoon 3D style. Keep road surface unobstructed and broad. No cars, people, text, trees, billboards, extra buildings. All mountain peaks and lodge must remain recognizable and distinct. Match reference colors and layout. Complete object visible from all sides.",
+    "imagePrompt": "Use case: stylized-concept. Create a new square 3D modeling reference image for a complete isolated original cartoon highland kart race diorama. Use the attached concept ONLY as style and theme reference; transform it into a single fully visible compact object on a plain light-gray studio background. Subject: a thin flat-bottom irregular gray rock terrain tile, at the REAR one very tall unmistakable white snow-covered main mountain peak and two smaller snow-capped side peaks, thick sculpted brilliant white snow occupying the upper half of every peak, gray exposed rock below. Main peak much taller than the entire lodge and road levels; bold alpine silhouette. FRONT and middle: gray-rock plateau terraces with a single broad open asphalt mountain hairpin road, stone retaining walls and continuous simple guardrails, red-white curbs. One clearly visible small stone mountain-pass lodge with bright orange terracotta roof on the front right terrace, separated from road. A few tiny tough shrubs, no green forest. Camera 45-degree overhead three-quarter orthographic product view; show entire diorama including all peaks, thin base and all edges with generous empty margin. Rounded clean colorful cartoon 3D material, large simplified game-ready shapes and soft studio lighting, clear vertical height difference. Strong cold gray/white mountain colors with warm orange lodge accent. No cars, no people, no text, no labels, no watermarks. No horizon, sky, distant painted scenery, cropped peaks or thick pedestal. All mountains must be actual connected 3D forms on the tile, and road surface open and clear.",
+    "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 6245916,
+        "sha256": "8da721fc71718bf356edd3c167260711ccf815a8893e0386f29fa1921423e444",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "asset-reference.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2438738
+      },
+      "concept.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2864209
+      },
+      "ground-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2870499
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 208279
+      }
+    },
+    "directory": "scenes/highland"
+  },
+  {
+    "id": "sea-highway",
+    "name": "跨海高速",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "water-texture.png",
+    "model": "model.glb",
+    "generationId": "787ad4e5-fc3a-4144-aa14-bf5f6dd6606f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/787ad4e5-fc3a-4144-aa14-bf5f6dd6606f",
+    "status": "validated-static-source",
+    "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+    "images": {
+      "concept": {
+        "width": 1536,
+        "height": 1024
+      },
+      "texture": {
+        "width": 1254,
+        "height": 1254
+      },
+      "reference": {
+        "width": 1254,
+        "height": 1254
+      }
+    },
+    "generation": {
+      "provider": "Hyper3D Rodin",
+      "tier": "Gen-2.5-Medium",
+      "meshMode": "Raw",
+      "qualityOverride": 18000,
+      "format": "glb",
+      "referenceMode": "image"
+    },
+    "imageSource": "built-in image_gen",
+    "downloaded": true,
+    "rejectedGenerationId": "65588f8f-0a50-48d4-bb46-50ecbd751b25",
+    "reference": "asset-reference.png",
+    "prompt": "Reconstruct the reference image as one complete cheerful cartoon 3D sea-highway diorama. Preserve the vivid thick turquoise-blue WATER BASE covering most of the footprint, TWO white A-shaped bridge pylons and many clearly visible THICK DIAGONAL CABLE STAYS fanning from the tower tops down to both sides of the bridge deck. The bridge crosses WATER, never land. Wide dark-gray gently undulating bridge roadway, white guardrails, red-white curbs, two small green rocky islands at the ends, a single white lighthouse with red cap. All image objects belong to one coherent miniature environment asset. Preserve the original clean cartoon materials and colors and the clear gaps between cable stays. No cars or people, no added buildings, no sky, no background plane, no text.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: image-to-3D modeling reference, one complete isolated sea highway environment diorama asset. Reference image 1 is STYLE AND SUBJECT reference only: retain its polished cheerful cartoon 3D look, white cable-stayed bridge over vivid blue sea, green rocky islands and red-roofed lighthouse, but redesign the composition into one small complete isolated model. On a plain neutral light gray studio background, render an entire compact thick rectangular AZURE TURQUOISE SEA-WATER BASE with a white cable-stayed bridge crossing it diagonally between TWO SMALL ISLANDS at the two ends. Most of the base is blue water with simple visible small wave ripples. Two recognizable white A-SHAPED bridge pylons have diagonal legs joined at the apex and clear open triangular spaces. Each pylon supports multiple THICK clearly visible white DIAGONAL CABLE STAYS fanning out to both sides of the roadway; the cables are solid chunky rods suitable for 3D reconstruction, never faint thin lines. Broad gently raised dark gray asphalt bridge deck, white safety railings, red-white curbs. One small white lighthouse with red cap on an island. Camera 45 degree elevated three-quarter view; show every edge of the water-base and the full tops of towers. Center the complete object with generous gray margin around all sides. Simplified clean mobile-game geometry, warm-white highlights, soft studio shadows. No cars, no traffic, no people, no buildings except lighthouse, no land under bridge, no horizon, no sky, no text, no logo, no UI. Exactly one coherent self-contained isolated 3D environment asset, no grid and no multi-view sheet. Square composition.",
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 5663340,
+        "sha256": "1bd21fda4177f9010e285bcd9eae76c1c987c953c3032d3bf63dc455086b4e6f",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "asset-reference.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1973136
+      },
+      "concept.png": {
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2613963
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 133443
+      },
+      "water-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2413705
+      }
+    },
+    "directory": "scenes/sea-highway"
+  },
+  {
+    "id": "tibetan-grassland",
+    "name": "青藏高原草原与小山",
+    "category": "scenes",
+    "concept": "concept.png",
+    "texture": "grass-texture.png",
+    "reference": "asset-reference.png",
+    "model": "model.glb",
+    "rejectedGenerationId": "2823cbe0-3c1b-4117-ab67-2c4e9cd64574",
+    "generationId": "02ed6c9d-ab3b-4c18-bfd2-0408059e8429",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/02ed6c9d-ab3b-4c18-bfd2-0408059e8429",
+    "status": "validated-static-source",
+    "downloaded": true,
+    "prompt": "Reconstruct the entire solid miniature grassland terrain block in the reference image. Include the thick filled-in earth base, continuous vivid green grass surface, low rounded grassy hills, two white pastoral canvas tents, turquoise stream and small wooden bridge. Preserve the broad gray asphalt S-bend road physically resting on the terrain, white guardrails and red-white curbs. A cohesive complete diorama, full landmass and grass surface are essential; do not output isolated floating road strips. Clean stylized cartoon 3D, matte colorful materials. No background geometry, no snow peaks, no people, no vehicles, no text.",
+    "imagePrompt": "Use case: stylized-concept. Asset type: a single clear 3D reconstruction reference image of a miniature racing terrain diorama. Use the supplied concept image ONLY as a color and style reference; replace its panoramic composition with one isolated compact solid terrain block fully in frame on a neutral light-gray studio background. Subject: complete Qinghai-Tibet plateau grassland terrain tile, thick solid earth base covered with bright green short grass, several low rounded green grassy hills, a small turquoise creek, exactly two white pastoral canvas tents, and a wide gray asphalt S-bend racing road running across the ground surface. The road must sit firmly on the ground, with clear white guardrails along the edges. Include one small wooden bridge across the creek and a few simple gray stones. Camera: 45-degree elevated three-quarter isometric view, entire block and all its sides visible, clear margin around the asset. Simple readable miniature cartoon 3D, chunky smooth forms, matte colors, soft studio light, detailed enough to reconstruct the landmass and tents. Terrain must be a filled-in solid continuous green landmass, no holes or hollow center; most of the image shows grassland terrain, not road. Preserve the calm open grassland identity. No giant snowy peaks, no alpine mountains, no cliffs, no scenery outside the block, no sky, no people, no vehicles, no yaks, no text, no labels, no UI, no watermark.",
+    "notes": "先制作场景效果图，再用独立地块参考图重新生成。静态环境原型；建筑、赛道、地形尚未拆成独立模块，未做碰撞或运行时接入。",
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 5530148,
+        "sha256": "5f62ff5238b061277e3a57c278efecaad7846e2123be9dc60755a183480fd460",
+        "meshes": 1,
+        "triangles": 18000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "asset-reference.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2224478
+      },
+      "concept.png": {
+        "width": 1672,
+        "height": 941,
+        "bytes": 2618817
+      },
+      "grass-texture.png": {
+        "width": 1254,
+        "height": 1254,
+        "bytes": 3021419
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 206753
+      }
+    },
+    "directory": "scenes/tibetan-grassland"
+  },
+  {
+    "category": "vehicles",
+    "id": "classic-kart",
+    "name": "经典卡丁",
+    "detail": "orange and warm cream classic open-wheel go-kart, four exposed chunky rubber wheels, compact rounded nose cone with cream center stripe, empty seat, steering wheel, black bumper, small rear motor",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "a65da878-d14c-49db-bab4-477d21d900a9",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/a65da878-d14c-49db-bab4-477d21d900a9",
+    "prompt": "One original stylized toy-like racing go-kart, orange and warm cream classic open-wheel kart, four chunky black rubber wheels, compact rounded nose cone with cream center stripe, visible empty seat and steering wheel, black bumper and small rear motor. No driver, no words or logos, no background, no floor, no pedestal. Clean standalone textured game asset, coherent rounded mobile game style with readable silhouette, soft painted colors. Vehicle only.",
+    "notes": "静态美术源模型；待生成和验证。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3372808,
+        "sha256": "f3b7860d3c2bdde4b434502816fd7d718c088bc4ebdd55ea3af91b3234accbfa",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 126228
+      }
+    },
+    "directory": "vehicles/classic-kart"
+  },
+  {
+    "category": "vehicles",
+    "id": "dune-buggy",
+    "name": "沙漠越野",
+    "detail": "sand yellow and turquoise dune buggy racing car, four oversize knobbly tires, open tubular roll cage, short wide body, spare wheel behind two EMPTY seats",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "f51f175b-54d8-4e2b-b35d-4747a9509ad0",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/f51f175b-54d8-4e2b-b35d-4747a9509ad0",
+    "prompt": "One original stylized toy-like racing vehicle: sand yellow and turquoise dune buggy racing car, four oversize knobbly tires, open tubular roll cage, short wide body, spare wheel behind two EMPTY seats. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3820680,
+        "sha256": "342c710abec5fe88e6cc8a39c07cb5858fe131c328a503300bef36816a8448c5",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 173163
+      }
+    },
+    "directory": "vehicles/dune-buggy"
+  },
+  {
+    "category": "vehicles",
+    "id": "electric",
+    "name": "未来电动",
+    "detail": "white and cyan futuristic compact electric racing car, smooth capsule body, enclosed empty cockpit, cyan accent strips, four conventional rubber wheels, short spoiler, clean aerodynamic rounded silhouette",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "7a900513-7aea-48ab-8f10-0986616edefe",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/7a900513-7aea-48ab-8f10-0986616edefe",
+    "prompt": "One original stylized toy-like racing vehicle: white and cyan futuristic compact electric racing car, smooth capsule body, enclosed empty cockpit, cyan accent strips, four conventional rubber wheels, short spoiler, clean aerodynamic rounded silhouette. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3506928,
+        "sha256": "1de34150506719a4ff010e8767bb087d984d5ec0bde57dfd8899de7ba4672cdf",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 140010
+      }
+    },
+    "directory": "vehicles/electric"
+  },
+  {
+    "category": "vehicles",
+    "id": "formula",
+    "name": "方程式",
+    "detail": "scarlet red and white compact formula racing car, long narrow low nose, front and rear aerodynamic wings, four exposed black slick tires, one EMPTY open cockpit with steering wheel",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "e75c1902-abec-4db2-98d1-38b21dfc679c",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/e75c1902-abec-4db2-98d1-38b21dfc679c",
+    "prompt": "One original stylized toy-like racing vehicle: scarlet red and white compact formula racing car, long narrow low nose, front and rear aerodynamic wings, four exposed black slick tires, one EMPTY open cockpit with steering wheel. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3545688,
+        "sha256": "44dd186311c577fd29f45598f0d44ac63d861caeb9974737c0d8147f7ee9c11f",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 135916
+      }
+    },
+    "directory": "vehicles/formula"
+  },
+  {
+    "category": "vehicles",
+    "id": "mini-pickup",
+    "name": "迷你皮卡",
+    "detail": "leaf green and warm cream mini racing pickup truck, compact two-seat cab with transparent windshield and empty cabin, short empty truck bed, four chunky tires, rounded bumpers",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "e7a72d99-4fb8-481d-b875-b873f2b480de",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/e7a72d99-4fb8-481d-b875-b873f2b480de",
+    "prompt": "One original stylized toy-like racing vehicle: leaf green and warm cream mini racing pickup truck, compact two-seat cab with transparent windshield and empty cabin, short empty truck bed, four chunky tires, rounded bumpers. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3405640,
+        "sha256": "4d7afe69ba1fc48eda4096eee56ce05934da6c1d1797576536f9dc5fde2d16c1",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 182869
+      }
+    },
+    "directory": "vehicles/mini-pickup"
+  },
+  {
+    "category": "vehicles",
+    "id": "muscle",
+    "name": "肌肉跑车",
+    "detail": "burnt orange and charcoal American-inspired original muscle racing coupe, broad squared bonnet with modest scoop, thick rear haunches, four chunky rubber tires, cream twin stripes, no brand",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "de3e2cbb-d9d8-42a8-afd2-58cd3fbbb614",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/de3e2cbb-d9d8-42a8-afd2-58cd3fbbb614",
+    "prompt": "One original stylized toy-like racing vehicle: burnt orange and charcoal American-inspired original muscle racing coupe, broad squared bonnet with modest scoop, thick rear haunches, four chunky rubber tires, cream twin stripes, no brand. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3935744,
+        "sha256": "62ca0144bec846f919e896018eeaa7979cbdc5f243715dd536ee86211eca61d4",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 156557
+      }
+    },
+    "directory": "vehicles/muscle"
+  },
+  {
+    "category": "vehicles",
+    "id": "rally",
+    "name": "拉力掀背",
+    "detail": "cobalt blue and yellow compact rally hatchback racing car, boxy short body, four chunky tires, flared wheel arches, four round auxiliary front lights, roof vent, visible glass windows",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "ed1d30be-57c1-4d1b-9918-498a7bc5fa7f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/ed1d30be-57c1-4d1b-9918-498a7bc5fa7f",
+    "prompt": "One original stylized toy-like racing vehicle: cobalt blue and yellow compact rally hatchback racing car, boxy short body, four chunky tires, flared wheel arches, four round auxiliary front lights, roof vent, visible glass windows. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 4076572,
+        "sha256": "322671e62aae1c6cb400267e5accb578b7fdcc8d014e09a0004420a5b3800db3",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 228541
+      }
+    },
+    "directory": "vehicles/rally"
+  },
+  {
+    "category": "vehicles",
+    "id": "retro-roadster",
+    "name": "复古跑车",
+    "detail": "mint green and cream vintage open-top racing roadster, rounded separate fenders, round headlamps, chrome-like bumper, brown EMPTY cockpit, four rubber tires",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "0b99f79e-4552-430c-8fa9-3c1747ea084d",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/0b99f79e-4552-430c-8fa9-3c1747ea084d",
+    "prompt": "One original stylized toy-like racing vehicle: mint green and cream vintage open-top racing roadster, rounded separate fenders, round headlamps, chrome-like bumper, brown EMPTY cockpit, four rubber tires. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 4267404,
+        "sha256": "3a2c9421fa8029780482baceae6d7b590684e3b746de3a00c4797f4625d67101",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 155696
+      }
+    },
+    "directory": "vehicles/retro-roadster"
+  },
+  {
+    "category": "vehicles",
+    "id": "snow-tracks",
+    "name": "冰原越野",
+    "detail": "ice blue and bright orange small snow racing vehicle, compact empty open cockpit under roll hoop, two black rubber caterpillar tracks with visible small rollers, rounded nose, no skis, no driver",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "a058482c-2ed0-41db-8950-0f08af47f33f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/a058482c-2ed0-41db-8950-0f08af47f33f",
+    "prompt": "One original stylized toy-like racing vehicle: ice blue and bright orange small snow racing vehicle, compact empty open cockpit under roll hoop, two black rubber caterpillar tracks with visible small rollers, rounded nose, no skis, no driver. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "实际生成的是四轮冰蓝越野赛车，保留为第九种车型；原提示词中的履带未生成。车轮与车体同网格，尚未拆件或接入游戏。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 3660788,
+        "sha256": "1809b0578bb900b3d1cb444fe9c32f6d5bb67a914248cd236717c1cb8928738e",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 161493
+      }
+    },
+    "directory": "vehicles/snow-tracks"
+  },
+  {
+    "category": "vehicles",
+    "id": "supercar",
+    "name": "流线超跑",
+    "detail": "deep violet and warm yellow original streamlined compact supercar, wide low wedge silhouette with rounded edges, wraparound dark glass cockpit, four rubber tires, rear wing, no brand",
+    "status": "validated-static-source",
+    "model": "model.glb",
+    "generationId": "07d5c680-72fe-45db-9540-3bdffdaf172f",
+    "displayUrl": "https://hyper3d.ai/workspace/rodin/07d5c680-72fe-45db-9540-3bdffdaf172f",
+    "prompt": "One original stylized toy-like racing vehicle: deep violet and warm yellow original streamlined compact supercar, wide low wedge silhouette with rounded edges, wraparound dark glass cockpit, four rubber tires, rear wing, no brand. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+    "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+    "downloaded": true,
+    "sourceFile": "base_basic_shaded.glb",
+    "visualReview": "accepted-static-source",
+    "validation": {
+      "model": {
+        "bytes": 2764560,
+        "sha256": "746f723285114d5aa5cb6e4d52cd400d2d2c804ffea5312acaabf4d751bbbbe4",
+        "meshes": 1,
+        "triangles": 5000,
+        "materials": 1,
+        "images": 1,
+        "skins": 0,
+        "animations": 0
+      },
+      "preview.png": {
+        "width": 768,
+        "height": 768,
+        "bytes": 137418
+      }
+    },
+    "directory": "vehicles/supercar"
+  }
+]

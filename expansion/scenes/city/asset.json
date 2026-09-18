@@ -1,0 +1,53 @@
+{
+  "id": "city",
+  "name": "城市",
+  "category": "scenes",
+  "concept": "concept.png",
+  "texture": "road-texture.png",
+  "model": "model.glb",
+  "generationId": "92808e55-7e2a-40e5-99bc-9c28a60a51c9",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/92808e55-7e2a-40e5-99bc-9c28a60a51c9",
+  "status": "validated-static-source",
+  "notes": [
+    "效果图已先完成，再生成道路纹理并提交静态场景模型。",
+    "concept.png: 真 PNG，1672 x 941；road-texture.png: 真 PNG，1254 x 1254。",
+    "纹理无标线、无透视；可平铺为生成目标，尚未验证边缘像素连续性。",
+    "未改动运行时代码；未完成碰撞、移动端性能或 Cocos 导入验证。"
+  ],
+  "validation": {
+    "model": {
+      "bytes": 5783732,
+      "sha256": "0de6155bc98ef4234384ec8fda7592b7da88ec9e81aa2a447950c4e40e195673",
+      "meshes": 1,
+      "triangles": 18000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "concept.png": {
+      "width": 1672,
+      "height": 941,
+      "bytes": 2187480
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 206450
+    },
+    "road-texture.png": {
+      "width": 1254,
+      "height": 1254,
+      "bytes": 3486484
+    }
+  },
+  "generation": {
+    "provider": "Hyper3D Rodin",
+    "tier": "Gen-2.5-Medium",
+    "meshMode": "Raw",
+    "targetPolygons": 18000
+  },
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source"
+}

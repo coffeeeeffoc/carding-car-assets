@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "dune-buggy",
+  "name": "沙漠越野",
+  "detail": "sand yellow and turquoise dune buggy racing car, four oversize knobbly tires, open tubular roll cage, short wide body, spare wheel behind two EMPTY seats",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "f51f175b-54d8-4e2b-b35d-4747a9509ad0",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/f51f175b-54d8-4e2b-b35d-4747a9509ad0",
+  "prompt": "One original stylized toy-like racing vehicle: sand yellow and turquoise dune buggy racing car, four oversize knobbly tires, open tubular roll cage, short wide body, spare wheel behind two EMPTY seats. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3820680,
+      "sha256": "342c710abec5fe88e6cc8a39c07cb5858fe131c328a503300bef36816a8448c5",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 173163
+    }
+  }
+}

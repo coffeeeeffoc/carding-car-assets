@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "formula",
+  "name": "方程式",
+  "detail": "scarlet red and white compact formula racing car, long narrow low nose, front and rear aerodynamic wings, four exposed black slick tires, one EMPTY open cockpit with steering wheel",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "e75c1902-abec-4db2-98d1-38b21dfc679c",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/e75c1902-abec-4db2-98d1-38b21dfc679c",
+  "prompt": "One original stylized toy-like racing vehicle: scarlet red and white compact formula racing car, long narrow low nose, front and rear aerodynamic wings, four exposed black slick tires, one EMPTY open cockpit with steering wheel. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3545688,
+      "sha256": "44dd186311c577fd29f45598f0d44ac63d861caeb9974737c0d8147f7ee9c11f",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 135916
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "retro-roadster",
+  "name": "复古跑车",
+  "detail": "mint green and cream vintage open-top racing roadster, rounded separate fenders, round headlamps, chrome-like bumper, brown EMPTY cockpit, four rubber tires",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "0b99f79e-4552-430c-8fa9-3c1747ea084d",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/0b99f79e-4552-430c-8fa9-3c1747ea084d",
+  "prompt": "One original stylized toy-like racing vehicle: mint green and cream vintage open-top racing roadster, rounded separate fenders, round headlamps, chrome-like bumper, brown EMPTY cockpit, four rubber tires. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 4267404,
+      "sha256": "3a2c9421fa8029780482baceae6d7b590684e3b746de3a00c4797f4625d67101",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 155696
+    }
+  }
+}

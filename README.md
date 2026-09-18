@@ -1,6 +1,8 @@
-# 海湾卡丁车素材库
+# 咔叮唓赛车素材库
 
 `carding-car` 的独立美术源文件仓库，可用于其他项目。采用海湾赛道、橙白赛车、自然海岸植物和灯塔的统一方向。当前交付是**素材准备**，效果图代表美术目标，未把它描述为 Cocos 游戏实机效果。
+
+扩展素材统一保存在 [`expansion/`](expansion/README.md)：7 个场景、10 种车型、10 种车手、12 种道具，共 39 个静态 GLB，附效果图、贴图、实际模型预览和生成记录。打开 [扩展素材预览](expansion/index.html) 浏览；运行 `python expansion/check-assets.py --complete` 校验。这些源素材尚未加入 `runtime/`，不会随游戏构建整体打包。
 
 ![整体美术目标](concept.png)
 

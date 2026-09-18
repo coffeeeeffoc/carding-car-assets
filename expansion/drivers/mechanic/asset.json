@@ -1,0 +1,32 @@
+{
+  "category": "drivers",
+  "id": "mechanic",
+  "name": "蓝色技师",
+  "detail": "friendly cobalt blue and yellow mechanic racing driver, round blue racing helmet with goggles resting above eyes, blue jumpsuit with broad yellow shoulder pads, sturdy gloves and boots, no loose tools",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "c8be8430-0b9d-4b15-9eea-c77458031aa4",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/c8be8430-0b9d-4b15-9eea-c77458031aa4",
+  "prompt": "One original cute stylized toy-like human racing driver character: friendly cobalt blue and yellow mechanic racing driver, round blue racing helmet with goggles resting above eyes, blue jumpsuit with broad yellow shoulder pads, sturdy gloves and boots, no loose tools. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+  "notes": "A-pose 静态车手；尚未绑定、坐姿或动画。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3529240,
+      "sha256": "b1664c89da696fee605942e492d8654f860eb2a0a61c38a19d3c6959b9d25187",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 148642
+    }
+  }
+}

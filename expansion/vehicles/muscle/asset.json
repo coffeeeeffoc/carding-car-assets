@@ -1,0 +1,32 @@
+{
+  "category": "vehicles",
+  "id": "muscle",
+  "name": "肌肉跑车",
+  "detail": "burnt orange and charcoal American-inspired original muscle racing coupe, broad squared bonnet with modest scoop, thick rear haunches, four chunky rubber tires, cream twin stripes, no brand",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "de3e2cbb-d9d8-42a8-afd2-58cd3fbbb614",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/de3e2cbb-d9d8-42a8-afd2-58cd3fbbb614",
+  "prompt": "One original stylized toy-like racing vehicle: burnt orange and charcoal American-inspired original muscle racing coupe, broad squared bonnet with modest scoop, thick rear haunches, four chunky rubber tires, cream twin stripes, no brand. Vehicle only, no driver or people, no floor or pedestal or scenery. Coherent cheerful rounded mobile racing game style, clean painted materials and clear silhouette. Complete standalone textured 3D game art model, no lettering or logos.",
+  "notes": "静态美术源模型；待验证轮胎分离、比例与移动端预算。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3935744,
+      "sha256": "62ca0144bec846f919e896018eeaa7979cbdc5f243715dd536ee86211eca61d4",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 156557
+    }
+  }
+}

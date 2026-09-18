@@ -1,0 +1,32 @@
+{
+  "category": "drivers",
+  "id": "explorer",
+  "name": "沙漠探险者",
+  "detail": "friendly desert explorer racing driver, sand beige helmet with amber goggles, compact teal neck scarf close to body, tan racing jumpsuit and padded gloves, brown ankle boots",
+  "status": "validated-static-source",
+  "model": "model.glb",
+  "generationId": "fefc8173-f384-4c9a-95e5-1199ac24795f",
+  "displayUrl": "https://hyper3d.ai/workspace/rodin/fefc8173-f384-4c9a-95e5-1199ac24795f",
+  "prompt": "One original cute stylized toy-like human racing driver character: friendly desert explorer racing driver, sand beige helmet with amber goggles, compact teal neck scarf close to body, tan racing jumpsuit and padded gloves, brown ankle boots. Full body alone, relaxed symmetrical A-pose, arms angled away from torso, both legs straight and separated, hands clearly formed, no props no vehicle no pedestal no floor. Consistent compact proportions with large helmet about one third full height, rounded body, clear silhouette and clean soft painted mobile-game materials. No letters, numbers, logos. Static character art for later rigging.",
+  "notes": "静态站姿车手原型，实际姿态以GLB预览为准；尚未绑定、调整坐姿或制作动画。",
+  "downloaded": true,
+  "sourceFile": "base_basic_shaded.glb",
+  "visualReview": "accepted-static-source",
+  "validation": {
+    "model": {
+      "bytes": 3455528,
+      "sha256": "2b2412b712ccda1d1495235b03c2cf2a44a7c856215e343a3cbb456a48842879",
+      "meshes": 1,
+      "triangles": 5000,
+      "materials": 1,
+      "images": 1,
+      "skins": 0,
+      "animations": 0
+    },
+    "preview.png": {
+      "width": 768,
+      "height": 768,
+      "bytes": 138926
+    }
+  }
+}
