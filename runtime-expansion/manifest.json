@@ -1,0 +1,1285 @@
+{
+  "version": 1,
+  "units": "metres",
+  "up": "+Y",
+  "forward": "+Z",
+  "models": [
+    {
+      "category": "drivers",
+      "id": "aviator",
+      "name": "青色飞行员",
+      "file": "drivers/aviator.glb",
+      "bytes": 141900,
+      "sha256": "84b8b74bf139a1965d664296c7d35aad495cca47b0c7b6154410ac0bd60a9c7a",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.3535421071713592
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/aviator/model.glb",
+      "sourceSha256": "9723840798a84cb81829c60c8153cc710c86796505b5257e7a27bf1790d48586",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "champion",
+      "name": "黑金冠军",
+      "file": "drivers/champion.glb",
+      "bytes": 129772,
+      "sha256": "b66ba83836dd992f541eb24cdd29080d9d32c927d060f11761b12d62cfd4ac58",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.28500000000000003
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/champion/model.glb",
+      "sourceSha256": "630cf8698b0b5d9d8d6b89b53bb1fafb47c4786ca4295113fecfe6b916b5238f",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "explorer",
+      "name": "沙漠探险者",
+      "file": "drivers/explorer.glb",
+      "bytes": 126528,
+      "sha256": "4e90515185cb3b4d6a2799c6cf1417891fc4653cf909475bd3469c4c562ef459",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.29887381764478277
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/explorer/model.glb",
+      "sourceSha256": "2b2412b712ccda1d1495235b03c2cf2a44a7c856215e343a3cbb456a48842879",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "future-pilot",
+      "name": "紫色未来车手",
+      "file": "drivers/future-pilot.glb",
+      "bytes": 135032,
+      "sha256": "746c3adfdc5cbf8194975ce1b8fe57254031ee3822c51a3cb5092b11ab25f92f",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.28500000000000003
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/future-pilot/model.glb",
+      "sourceSha256": "1601fdd327c7812736fe0251fc04563915946a9c1fba1927c9d36e130ebe96c7",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "mechanic",
+      "name": "蓝色技师",
+      "file": "drivers/mechanic.glb",
+      "bytes": 133924,
+      "sha256": "8104e471e622eb1b8bd36f96cd4b9b096a701db5fc1121261fe40458a2fa0251",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.2986981171143067
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/mechanic/model.glb",
+      "sourceSha256": "b1664c89da696fee605942e492d8654f860eb2a0a61c38a19d3c6959b9d25187",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "polar-guide",
+      "name": "冰原向导",
+      "file": "drivers/polar-guide.glb",
+      "bytes": 127712,
+      "sha256": "352255705bf45ddf61362556d55c10e790915fb3a8b170ae8d72624853732892",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.3397143599090807
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/polar-guide/model.glb",
+      "sourceSha256": "fbfbb63af621b9cf6a203a3a00087e73ebc47e63c311c53dda6693f969229601",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "ranger",
+      "name": "绿色巡护员",
+      "file": "drivers/ranger.glb",
+      "bytes": 125844,
+      "sha256": "346094d4cf6dc0049fd475999e60ebe9e28bf3a37026fb90e9ff16fd79fd6027",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.3326190073379079
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/ranger/model.glb",
+      "sourceSha256": "cbff824f0b427729a5a8cb900492f42d4d72ad47e8cb2a7e2681c4b768919b5c",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "rookie",
+      "name": "橙白新秀",
+      "file": "drivers/rookie.glb",
+      "bytes": 126868,
+      "sha256": "f647ebe1a955f8f743b0c3d139a06f94745c2688f1225757c42b2fa2d43dbda9",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.3325635195796073
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/rookie/model.glb",
+      "sourceSha256": "5d2f0695a68ff2ab49d3943f285a9865b3f926e9a07f3abef216f520fa67c670",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "speedster",
+      "name": "红色竞速手",
+      "file": "drivers/speedster.glb",
+      "bytes": 126728,
+      "sha256": "40d0bf62243ad516c96e8f860ebda17336c0c98dcc1f6d74732c3dfdc5f50c01",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.31066243813205857
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/speedster/model.glb",
+      "sourceSha256": "3ff6d98dc325c94634c8bf4c014aa947a74fdf819a93db42e4cf3b7a92ee75ad",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "drivers",
+      "id": "street-racer",
+      "name": "粉色街头车手",
+      "file": "drivers/street-racer.glb",
+      "bytes": 123100,
+      "sha256": "a908e07402cdc912e4f26f552852b4704e3ae254b91d2e1a067a4ab22c04373f",
+      "bounds": [
+        [
+          -0.32,
+          0.0,
+          -0.28500000000000003
+        ],
+        [
+          0.32,
+          1.06,
+          0.515
+        ]
+      ],
+      "source": "expansion/drivers/street-racer/model.glb",
+      "sourceSha256": "2cd071b50040ff2c6ee4e780e2ad708372b0afd759489db17d197f4dc7b33943",
+      "usage": "seated rigid parts, textured original helmet; no skeletal animation",
+      "forward": "+Z",
+      "seatPivot": [
+        0,
+        0.32,
+        -0.13
+      ],
+      "pose": "seated-rigid-parts"
+    },
+    {
+      "category": "items",
+      "id": "boost-pad",
+      "name": "加速板",
+      "file": "items/boost-pad.glb",
+      "bytes": 65540,
+      "sha256": "acb99fd094c519987f1b7fb1829ea5b5d691cfe27d2569c216cbb1a576ce72c0",
+      "bounds": [
+        [
+          -0.831070065498352,
+          0.0,
+          -1.2999999523162842
+        ],
+        [
+          0.831070065498352,
+          0.10949748754501343,
+          1.2999999523162842
+        ]
+      ],
+      "source": "expansion/items/boost-pad/model.glb",
+      "sourceSha256": "f9aeabbc77b895277b8437e1cff2b0fa64749faa5a64f14e90a5eaa7bfb6e5b6",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "coin",
+      "name": "金币",
+      "file": "items/coin.glb",
+      "bytes": 55632,
+      "sha256": "f7314f419693ab397ba9a87d53e09f642b3038d3634328ad4e0eb89588b3cd77",
+      "bounds": [
+        [
+          -0.550000011920929,
+          0.0,
+          -0.08692393451929092
+        ],
+        [
+          0.550000011920929,
+          1.083685278892517,
+          0.08692393451929092
+        ]
+      ],
+      "source": "expansion/items/coin/model.glb",
+      "sourceSha256": "9145c322582f2dee44d2df4af47c0446981bcd3dfede932a6653b35749f73c10",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "freeze-orb",
+      "name": "冰冻球",
+      "file": "items/freeze-orb.glb",
+      "bytes": 73320,
+      "sha256": "8cdd99fa862ab97e31998a33eaf1ccb0367d3504af579a3e8e99cb5cd56f4d3b",
+      "bounds": [
+        [
+          -0.5315284132957458,
+          0.0,
+          -0.550000011920929
+        ],
+        [
+          0.5315284132957458,
+          1.0801268815994263,
+          0.550000011920929
+        ]
+      ],
+      "source": "expansion/items/freeze-orb/model.glb",
+      "sourceSha256": "c3fada05d1fb173e5ed784653ac31cdf8acd0c9b31708d57c9d6e386558cd037",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "magnet",
+      "name": "磁铁",
+      "file": "items/magnet.glb",
+      "bytes": 50880,
+      "sha256": "2dbac540ae8109a660cc490a024628ffb057240dbec293dd6ceab23fd8b20708",
+      "bounds": [
+        [
+          -0.4821561276912689,
+          0.0,
+          -0.550000011920929
+        ],
+        [
+          0.4821561276912689,
+          0.21036724746227264,
+          0.550000011920929
+        ]
+      ],
+      "source": "expansion/items/magnet/model.glb",
+      "sourceSha256": "273f88b9cc831b65a04e5033de37cdb0b241215b0c1d87015d13aad6eccd973c",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "mystery-box",
+      "name": "随机道具箱",
+      "file": "items/mystery-box.glb",
+      "bytes": 60420,
+      "sha256": "5f59cf468c92889a8976df9109f0f667b3a2d21c0e0e7f38b36daa15b94d21b8",
+      "bounds": [
+        [
+          -0.5486047863960266,
+          0.0,
+          -0.550000011920929
+        ],
+        [
+          0.5486047863960266,
+          1.0274229049682617,
+          0.550000011920929
+        ]
+      ],
+      "source": "expansion/items/mystery-box/model.glb",
+      "sourceSha256": "765ccc337f2bfcf1299e575785009ebf4357f86e3a62ed92204827dee5fad7c5",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "nitro",
+      "name": "氮气瓶",
+      "file": "items/nitro.glb",
+      "bytes": 56840,
+      "sha256": "1b7bf788e220b2a56420219bd0515e5d8713acfe92cf03fc29b9d2699c4d9abb",
+      "bounds": [
+        [
+          -0.4373157024383545,
+          0.0,
+          -0.3463214933872223
+        ],
+        [
+          0.4373157024383545,
+          1.100000023841858,
+          0.3463214933872223
+        ]
+      ],
+      "source": "expansion/items/nitro/model.glb",
+      "sourceSha256": "3cb4c0d3248502ca1d001e4954985e8a8b62e0e61e89bbee1b69f48ea9ab0cdb",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "oil-slick",
+      "name": "油渍",
+      "file": "items/oil-slick.glb",
+      "bytes": 54772,
+      "sha256": "0e8f33fc3b2f90873a21f4be9fa3fa9cc38dde4bafc239ec3d3cb12750740b52",
+      "bounds": [
+        [
+          -1.0,
+          0.0,
+          -0.8639864921569824
+        ],
+        [
+          1.0,
+          0.022613612934947014,
+          0.8639864921569824
+        ]
+      ],
+      "source": "expansion/items/oil-slick/model.glb",
+      "sourceSha256": "13846642d1531336fd874ca626151a4f54f84c98e12df295d2cce70a98b34580",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "repair-kit",
+      "name": "修理箱",
+      "file": "items/repair-kit.glb",
+      "bytes": 61140,
+      "sha256": "e5980d1b305485b285efe11d899ad7db2f40635185deb9f9a2b5ddc43e4897e9",
+      "bounds": [
+        [
+          -0.5096222758293152,
+          0.0,
+          -0.32349634170532227
+        ],
+        [
+          0.5096222758293152,
+          1.100000023841858,
+          0.32349634170532227
+        ]
+      ],
+      "source": "expansion/items/repair-kit/model.glb",
+      "sourceSha256": "5acabe05aeffde40690dbb3acaf3888951d554da2d212ae8bf2119684d5225b1",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "roadblock",
+      "name": "路障",
+      "file": "items/roadblock.glb",
+      "bytes": 57764,
+      "sha256": "ee245d4ab3a7f7f1760d02abfdd49346b306d55196fca086a8d4dd5fdccb5717",
+      "bounds": [
+        [
+          -1.100000023841858,
+          0.0,
+          -0.29214245080947876
+        ],
+        [
+          1.100000023841858,
+          1.1071209907531738,
+          0.29214245080947876
+        ]
+      ],
+      "source": "expansion/items/roadblock/model.glb",
+      "sourceSha256": "414656987cc4e1da545027b74672e95574e9ff1300984747af7c0e8e766c5225",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "shield",
+      "name": "护盾",
+      "file": "items/shield.glb",
+      "bytes": 58208,
+      "sha256": "c58bbf7fe882272e7cec5f1c2ee7279d9781392e64518e84b391d0954ded15dd",
+      "bounds": [
+        [
+          -0.550000011920929,
+          0.0,
+          -0.13909298181533813
+        ],
+        [
+          0.550000011920929,
+          1.0676054954528809,
+          0.13909298181533813
+        ]
+      ],
+      "source": "expansion/items/shield/model.glb",
+      "sourceSha256": "147bd271b8e97b1fec7557a0471c33990a6d2662ad2fddf7aa3f3904e94efb1e",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "spring-pad",
+      "name": "弹簧板",
+      "file": "items/spring-pad.glb",
+      "bytes": 66816,
+      "sha256": "66e19584232550df7c61a5276525198f524de2420d6ef06c02747631f889c00d",
+      "bounds": [
+        [
+          -0.8500000238418579,
+          -5.055480080612584e-17,
+          -0.8500000238418579
+        ],
+        [
+          0.8500000238418579,
+          1.2628570795059204,
+          0.8500000238418579
+        ]
+      ],
+      "source": "expansion/items/spring-pad/model.glb",
+      "sourceSha256": "3a86d0c7181433360b9c59f351bd3b10cf9ad0dd4a5e47eff985e858d0a0c863",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "items",
+      "id": "watermelon-peel",
+      "name": "西瓜皮",
+      "file": "items/watermelon-peel.glb",
+      "bytes": 52580,
+      "sha256": "2f89a49c487184bccae9be7b49c9ab6a5d07344e824c17e6bcfa7cc8017e7542",
+      "bounds": [
+        [
+          -0.6000000238418579,
+          0.0,
+          -0.4157951772212982
+        ],
+        [
+          0.6000000238418579,
+          0.4565294682979584,
+          0.4157951772212982
+        ]
+      ],
+      "source": "expansion/items/watermelon-peel/model.glb",
+      "sourceSha256": "f1682d5b399165a732867cfb94fb8a47ee715a4b7e972ecc44aae66db3eee692",
+      "usage": "visual pickup or hazard; game owns effects"
+    },
+    {
+      "category": "scenes",
+      "id": "city",
+      "name": "城市",
+      "file": "scenes/city.glb",
+      "bytes": 422640,
+      "sha256": "5d0136870ae72156f402c984a636db48055ccc50c59fdb7b3bd02b2dd215fdab",
+      "bounds": [
+        [
+          -18.0,
+          0.0,
+          -17.598310470581055
+        ],
+        [
+          18.0,
+          16.666322708129883,
+          17.598310470581055
+        ]
+      ],
+      "source": "expansion/scenes/city/model.glb",
+      "sourceSha256": "0de6155bc98ef4234384ec8fda7592b7da88ec9e81aa2a447950c4e40e195673",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "danxia",
+      "name": "七彩丹霞",
+      "file": "scenes/danxia.glb",
+      "bytes": 428380,
+      "sha256": "a5937a8946d31660dfc86bfafebf7d88de132297d106b63f623941ee0acd808f",
+      "bounds": [
+        [
+          -13.559789657592773,
+          0.0,
+          -18.0
+        ],
+        [
+          13.559789657592773,
+          6.523294448852539,
+          18.0
+        ]
+      ],
+      "source": "expansion/scenes/danxia/model.glb",
+      "sourceSha256": "70f77a6dabe41ff27ce3ae9a7f7e226d1045cdf4ebe421d23c0fb685e4fc60e3",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "desert",
+      "name": "沙漠",
+      "file": "scenes/desert.glb",
+      "bytes": 431532,
+      "sha256": "61b71d39b7f616c6755a13aa5ac2d72db89f065117006fae0243b61d46083d3c",
+      "bounds": [
+        [
+          -15.989837646484375,
+          0.0,
+          -18.0
+        ],
+        [
+          15.989837646484375,
+          8.884403228759766,
+          18.0
+        ]
+      ],
+      "source": "expansion/scenes/desert/model.glb",
+      "sourceSha256": "59ad286435bee186ef44f317acd411a531cca6fb1ba04b48ad9b2b9807a7ae99",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "glacier",
+      "name": "冰川",
+      "file": "scenes/glacier.glb",
+      "bytes": 369812,
+      "sha256": "585203674d8de412f122d03830ed24fa411075d28bd35ef17fb5f17bb883f449",
+      "bounds": [
+        [
+          -18.0,
+          0.0,
+          -11.646650314331055
+        ],
+        [
+          18.0,
+          9.859854698181152,
+          11.646650314331055
+        ]
+      ],
+      "source": "expansion/scenes/glacier/model.glb",
+      "sourceSha256": "a4298d91d40d1717ae90733d741fe242ed4cc3df9ce03814f80e93fe6c325527",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "highland",
+      "name": "高原与高山",
+      "file": "scenes/highland.glb",
+      "bytes": 396276,
+      "sha256": "fea3d25c48f294f55aef23fc98edc6443ca3e9f24ffee9e79f8807a2604b0cfe",
+      "bounds": [
+        [
+          -15.036563873291016,
+          0.0,
+          -18.0
+        ],
+        [
+          15.036563873291016,
+          16.56346321105957,
+          18.0
+        ]
+      ],
+      "source": "expansion/scenes/highland/model.glb",
+      "sourceSha256": "8da721fc71718bf356edd3c167260711ccf815a8893e0386f29fa1921423e444",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "sea-highway",
+      "name": "跨海高速",
+      "file": "scenes/sea-highway.glb",
+      "bytes": 435012,
+      "sha256": "dcbf5e86542b2ce5bb9e10786fba4de358731a70cec62f68aa7ea9f8c050010f",
+      "bounds": [
+        [
+          -9.57956600189209,
+          0.0,
+          -18.0
+        ],
+        [
+          9.57956600189209,
+          11.189068794250488,
+          18.0
+        ]
+      ],
+      "source": "expansion/scenes/sea-highway/model.glb",
+      "sourceSha256": "1bd21fda4177f9010e285bcd9eae76c1c987c953c3032d3bf63dc455086b4e6f",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "scenes",
+      "id": "tibetan-grassland",
+      "name": "青藏高原草原与小山",
+      "file": "scenes/tibetan-grassland.glb",
+      "bytes": 390492,
+      "sha256": "49de8c64cbf1df37c4060ba2b1582b10854923d063569ba782ed1abcc3963321",
+      "bounds": [
+        [
+          -18.0,
+          0.0,
+          -17.156522750854492
+        ],
+        [
+          18.0,
+          5.906822204589844,
+          17.156522750854492
+        ]
+      ],
+      "source": "expansion/scenes/tibetan-grassland/model.glb",
+      "sourceSha256": "5f62ff5238b061277e3a57c278efecaad7846e2123be9dc60755a183480fd460",
+      "usage": "distant landmark only; no driving or collision surface"
+    },
+    {
+      "category": "vehicles",
+      "id": "classic-kart",
+      "name": "经典卡丁",
+      "file": "vehicles/classic-kart.glb",
+      "bytes": 128404,
+      "sha256": "9daf9e3f33e82c21bafa509710109580e6d00158657ed7986cdfe6eb6efeffdb",
+      "bounds": [
+        [
+          -0.7608568668365479,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.7608568668365479,
+          1.1925220489501953,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/classic-kart/model.glb",
+      "sourceSha256": "f3b7860d3c2bdde4b434502816fd7d718c088bc4ebdd55ea3af91b3234accbfa",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.3,
+        "z": -0.25,
+        "scale": 1
+      },
+      "enclosedCabin": false
+    },
+    {
+      "category": "vehicles",
+      "id": "dune-buggy",
+      "name": "沙漠越野",
+      "file": "vehicles/dune-buggy.glb",
+      "bytes": 139580,
+      "sha256": "5efac01ee5aa914ff2f93204fd77d2d6e7ad006f4f636a76c4284dc5e5940cf5",
+      "bounds": [
+        [
+          -0.9437392354011536,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.9437392354011536,
+          1.4055888652801514,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/dune-buggy/model.glb",
+      "sourceSha256": "342c710abec5fe88e6cc8a39c07cb5858fe131c328a503300bef36816a8448c5",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.3,
+        "z": -0.25,
+        "scale": 1
+      },
+      "enclosedCabin": false
+    },
+    {
+      "category": "vehicles",
+      "id": "electric",
+      "name": "未来电动",
+      "file": "vehicles/electric.glb",
+      "bytes": 122164,
+      "sha256": "b6da3398fb5a9773343bf87624734a2c6d82d23ccf38294e99a16262df1e57cf",
+      "bounds": [
+        [
+          -0.7643526792526245,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.7643526792526245,
+          0.9352597594261169,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/electric/model.glb",
+      "sourceSha256": "1de34150506719a4ff010e8767bb087d984d5ec0bde57dfd8899de7ba4672cdf",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.18,
+        "z": -0.15,
+        "scale": 0.75
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "vehicles",
+      "id": "formula",
+      "name": "方程式",
+      "file": "vehicles/formula.glb",
+      "bytes": 143184,
+      "sha256": "167aacfdfd5a5c1a2d9aa42fd50c4584444f618f3f58d6256aabe2ede6931a62",
+      "bounds": [
+        [
+          -0.670120894908905,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.670120894908905,
+          0.7415857315063477,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/formula/model.glb",
+      "sourceSha256": "44dd186311c577fd29f45598f0d44ac63d861caeb9974737c0d8147f7ee9c11f",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.15,
+        "z": -0.25,
+        "scale": 0.7
+      },
+      "enclosedCabin": false
+    },
+    {
+      "category": "vehicles",
+      "id": "mini-pickup",
+      "name": "迷你皮卡",
+      "file": "vehicles/mini-pickup.glb",
+      "bytes": 121692,
+      "sha256": "0e305d2557dc7915e0db5cb980f708e0285472052b11df661608f1863d40022c",
+      "bounds": [
+        [
+          -0.7031373977661133,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.7031373977661133,
+          1.4154568910598755,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/mini-pickup/model.glb",
+      "sourceSha256": "4d7afe69ba1fc48eda4096eee56ce05934da6c1d1797576536f9dc5fde2d16c1",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.4,
+        "z": 0.2,
+        "scale": 0.85
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "vehicles",
+      "id": "muscle",
+      "name": "肌肉跑车",
+      "file": "vehicles/muscle.glb",
+      "bytes": 128324,
+      "sha256": "489f5d7b96811ec79fbe347311e25e257536a5bec33849a1f192f9365963fe40",
+      "bounds": [
+        [
+          -0.617949366569519,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.617949366569519,
+          0.9053131937980652,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/muscle/model.glb",
+      "sourceSha256": "62ca0144bec846f919e896018eeaa7979cbdc5f243715dd536ee86211eca61d4",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.18,
+        "z": -0.15,
+        "scale": 0.75
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "vehicles",
+      "id": "rally",
+      "name": "拉力掀背",
+      "file": "vehicles/rally.glb",
+      "bytes": 161264,
+      "sha256": "2442de7d930ed6f46697a3db82e116da5167b06e333f34bacd9b27d17b7aa420",
+      "bounds": [
+        [
+          -0.8468359112739563,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.8468359112739563,
+          1.3329737186431885,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/rally/model.glb",
+      "sourceSha256": "322671e62aae1c6cb400267e5accb578b7fdcc8d014e09a0004420a5b3800db3",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.4,
+        "z": -0.15,
+        "scale": 0.85
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "vehicles",
+      "id": "retro-roadster",
+      "name": "复古跑车",
+      "file": "vehicles/retro-roadster.glb",
+      "bytes": 136572,
+      "sha256": "3b14bd8f68190b2abab6aa2e2c1eab399ef8b1a4e2591f6d9ede385030d0c08e",
+      "bounds": [
+        [
+          -0.6662766337394714,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.6662766337394714,
+          1.0461407899856567,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/retro-roadster/model.glb",
+      "sourceSha256": "3a2c9421fa8029780482baceae6d7b590684e3b746de3a00c4797f4625d67101",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.3,
+        "z": -0.25,
+        "scale": 1
+      },
+      "enclosedCabin": false
+    },
+    {
+      "category": "vehicles",
+      "id": "snow-tracks",
+      "name": "冰原越野",
+      "file": "vehicles/snow-tracks.glb",
+      "bytes": 114556,
+      "sha256": "a40291ca9c5d4d7aa6d5526dfc63d50611e30486c5b6cfb00b8b490b96954286",
+      "bounds": [
+        [
+          -0.9023981690406799,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.9023981690406799,
+          1.1210904121398926,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/snow-tracks/model.glb",
+      "sourceSha256": "1809b0578bb900b3d1cb444fe9c32f6d5bb67a914248cd236717c1cb8928738e",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.25,
+        "z": -0.15,
+        "scale": 0.9
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "vehicles",
+      "id": "supercar",
+      "name": "流线超跑",
+      "file": "vehicles/supercar.glb",
+      "bytes": 116568,
+      "sha256": "c40270cf2ec04cbed2bee284d7088745a0c6789a4c236e06b97bdff789ea25a9",
+      "bounds": [
+        [
+          -0.6798117756843567,
+          0.0,
+          -1.4500000476837158
+        ],
+        [
+          0.6798117756843567,
+          0.6638594269752502,
+          1.4500000476837158
+        ]
+      ],
+      "source": "expansion/vehicles/supercar/model.glb",
+      "sourceSha256": "746f723285114d5aa5cb6e4d52cd400d2d2c804ffea5312acaabf4d751bbbbe4",
+      "usage": "visual chassis; shared game collision envelope",
+      "forward": "+Z",
+      "driverMount": {
+        "x": 0,
+        "y": 0.12,
+        "z": -0.15,
+        "scale": 0.65
+      },
+      "enclosedCabin": true,
+      "cockpitAdaptation": "roof opening cut in runtime mesh; original source preserved"
+    },
+    {
+      "category": "props",
+      "id": "city-building",
+      "file": "props/city-building.glb",
+      "bytes": 8064,
+      "sha256": "cb982d424889568eb2beea3aff2924aa805af1eaaa8541a2173d64489c0eef01",
+      "bounds": [
+        [
+          -2.7,
+          0.0,
+          -2.7
+        ],
+        [
+          2.7,
+          12.399999999999999,
+          2.7
+        ]
+      ],
+      "usage": "5m wide building; outside barriers",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "snow-peak",
+      "file": "props/snow-peak.glb",
+      "bytes": 3180,
+      "sha256": "8ca8e5f10870af5ca4e175bb4c613c7c1700e994fae8668a1a5a216694aab8fc",
+      "bounds": [
+        [
+          -9.0,
+          0,
+          -7.0
+        ],
+        [
+          9.0,
+          17,
+          7.0
+        ]
+      ],
+      "usage": "18m wide snow peak; background",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "ice-arch",
+      "file": "props/ice-arch.glb",
+      "bytes": 1920,
+      "sha256": "79691cb74f5eb9c58b83a8d00ae836d3b6574180a6800be7b1ed6e6fe503cb46",
+      "bounds": [
+        [
+          -8.0,
+          0.0,
+          -1.2
+        ],
+        [
+          8.0,
+          9.25,
+          1.2
+        ]
+      ],
+      "usage": "12m clear opening; roadside or wider game-defined opening, no collision",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "danxia-rock",
+      "file": "props/danxia-rock.glb",
+      "bytes": 6512,
+      "sha256": "576989e918e08b98600c4badf77e5348a76661733d926d74ca61a7f5f84200a8",
+      "bounds": [
+        [
+          -7.0,
+          0,
+          -4.5
+        ],
+        [
+          7.0,
+          9,
+          4.5
+        ]
+      ],
+      "usage": "14m wide layered mesa; outside track",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "grass-hill",
+      "file": "props/grass-hill.glb",
+      "bytes": 3180,
+      "sha256": "91e9c4426d80ab389f8317b9846a5ebf594f6be79c8c1275090529f881ff32e6",
+      "bounds": [
+        [
+          -7.0,
+          0,
+          -5.0
+        ],
+        [
+          7.0,
+          4,
+          5.0
+        ]
+      ],
+      "usage": "14m wide low grassy hill; outside track",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "bridge-tower",
+      "file": "props/bridge-tower.glb",
+      "bytes": 2076,
+      "sha256": "1fe3b37c30bb61b05eaa42c4598024a41d30238d6684749e9f999fcfe7ba9b9d",
+      "bounds": [
+        [
+          -11.0,
+          0.0,
+          -1.25
+        ],
+        [
+          11.0,
+          26.0,
+          1.25
+        ]
+      ],
+      "usage": "18m clear opening; deck at origin, collision supplied by game",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "bridge-deck",
+      "file": "props/bridge-deck.glb",
+      "bytes": 1920,
+      "sha256": "0cc424bdf044a7c6b1b8d9fe4f6f68d0b94199f9570ad1610469390edb779e3c",
+      "bounds": [
+        [
+          -9.0,
+          0.0,
+          -8.0
+        ],
+        [
+          9.0,
+          1.5,
+          8.0
+        ]
+      ],
+      "usage": "18m x 16m visual deck; must align beneath authoritative road",
+      "source": "build-expansion.py"
+    },
+    {
+      "category": "props",
+      "id": "desert-rock",
+      "file": "props/desert-rock.glb",
+      "bytes": 4208,
+      "sha256": "84ba524aed1af85f98ea9c40aa58158b25da464a5c145171bf243b2d051663c0",
+      "bounds": [
+        [
+          -5.0,
+          0,
+          -4.0
+        ],
+        [
+          5.0,
+          7.5,
+          4.0
+        ]
+      ],
+      "usage": "10m wide sandstone formation; outside track",
+      "source": "build-expansion.py"
+    }
+  ],
+  "textures": [
+    {
+      "id": "city",
+      "file": "textures/city.jpg",
+      "bytes": 62125,
+      "sha256": "8c4f741ba83f3106802b504c34b518ab49518a38361e7de25d8ccaee192202d9",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "danxia",
+      "file": "textures/danxia.jpg",
+      "bytes": 44635,
+      "sha256": "57a3655ee66addbb3e89e0d41ffa70db52ae9aaee89bea81bebfeaebdb967d93",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "desert",
+      "file": "textures/desert.jpg",
+      "bytes": 48280,
+      "sha256": "571bb7ecd092144b76492c113f38683a463ca5b1847a7bd0a488043eeb4e4e45",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "glacier",
+      "file": "textures/glacier.jpg",
+      "bytes": 43795,
+      "sha256": "f12517d97d3515c37f4eb16394277ba8fbc6da2f15cb5de4515515df725de073",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "highland",
+      "file": "textures/highland.jpg",
+      "bytes": 71274,
+      "sha256": "11d4cfecced035492d9bc33e5c000049046e7d28b1a1c42f56c9ef746e0d724e",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "sea-highway",
+      "file": "textures/sea-highway.jpg",
+      "bytes": 44184,
+      "sha256": "e6436bc0f25383743dcd6fed0c0698bebcf46c09544ef0653fe05d9de412dee7",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    },
+    {
+      "id": "tibetan-grassland",
+      "file": "textures/tibetan-grassland.jpg",
+      "bytes": 84796,
+      "sha256": "d2d6c0ed9c86a8b3dbb98b7e86524ecb44bd21f560f4a1d4897eb5c87072aa8d",
+      "usage": "environment reference texture; road tiling must be checked in scene"
+    }
+  ],
+  "limitations": [
+    "Original scene dioramas are background landmarks, not drivable roads.",
+    "Vehicle wheels remain baked into chassis; drivers use rigid seated parts without a skeleton.",
+    "Six opaque source cabins have small runtime roof openings; use each vehicle driverMount."
+  ]
+}

@@ -4,6 +4,8 @@
 
 扩展素材统一保存在 [`expansion/`](expansion/README.md)：7 个场景、10 种车型、10 种车手、12 种道具，共 39 个静态 GLB，附效果图、贴图、实际模型预览和生成记录。打开 [扩展素材预览](expansion/index.html) 浏览；运行 `python expansion/check-assets.py --complete` 校验。这些源素材尚未加入 `runtime/`，不会随游戏构建整体打包。
 
+供游戏接入的轻量衍生版在 [`runtime-expansion/`](runtime-expansion/README.md)，包含上述 39 项、8 种独立路边模块、7 张压缩材质，共约 6.36 MiB。使用 `python build-expansion.py` 重建，`python build-expansion.py --check` 校验；原高精度模型保留。车辆统一尺寸和朝向，车手使用原头盔与独立坐姿身体，封闭车型在运行版开出驾驶舱。游戏道路和碰撞不依赖原场景地块。
+
 ![整体美术目标](concept.png)
 
 ## 文件
