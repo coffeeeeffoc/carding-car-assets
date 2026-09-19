@@ -417,7 +417,8 @@ def props():
 def validate():
     manifest = json.loads((OUT/'manifest.json').read_text(encoding='utf-8'))
     rows = manifest['models']
-    assert {c:sum(r['category']==c for r in rows) for c in ['scenes','vehicles','drivers','items','props']} == {'scenes':7,'vehicles':10,'drivers':10,'items':12,'props':8}
+    assert {c:sum(r['category']==c for r in rows) for c in ['scenes','vehicles','drivers','items','props']} == {'scenes':7,'vehicles':10,'drivers':10,'items':12,'props':11}
+    assert len({r['file'] for r in rows}) == len(rows)
     for row in rows:
         path = OUT / row['file']
         assert digest(path)['sha256'] == row['sha256']
@@ -448,7 +449,7 @@ def validate():
         assert digest(OUT/row['file'])['sha256'] == row['sha256']
     total = sum(p.stat().st_size for p in OUT.rglob('*') if p.is_file())
     assert total < 12*1024*1024, total
-    print(f'PASS: 39 derived assets + 8 props + 7 textures, grounded embedded GLBs, originals intact; {total / 1024**2:.2f} MiB')
+    print(f'PASS: 39 derived assets + 11 props + 7 textures, grounded embedded GLBs, originals intact; {total / 1024**2:.2f} MiB')
 
 
 if __name__ == '__main__':
@@ -457,6 +458,10 @@ if __name__ == '__main__':
         catalog = json.loads((SOURCE/'catalog.json').read_text(encoding='utf-8'))
         models = [export(entry) for entry in catalog]
         models += props()
+        kit_spec = importlib.util.spec_from_file_location('highland_props', ROOT / 'build-highland-props.py')
+        kit = importlib.util.module_from_spec(kit_spec)
+        kit_spec.loader.exec_module(kit)
+        models += kit.build()
         textures = []
         for entry in catalog:
             if entry['category'] != 'scenes':

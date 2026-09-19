@@ -1,0 +1,70 @@
+{
+  "units": "metres",
+  "up": "+Y",
+  "models": [
+    {
+      "category": "props",
+      "id": "highland-snow-ridge",
+      "file": "props/highland-snow-ridge.glb",
+      "bytes": 133892,
+      "sha256": "a17b29ccd4b917d2494503a9c2b8aaafb6c28683666aec0e04233f8af92b30cb",
+      "bounds": [
+        [
+          -32.0,
+          -1.6981701694823118e-16,
+          -18.32918041128048
+        ],
+        [
+          32.0,
+          22.0830486886751,
+          18.32918041128048
+        ]
+      ],
+      "usage": "64m authored snow ridge; backdrop, cut base hidden by granite foothills",
+      "source": "expansion/scenes/highland/model.glb",
+      "sourceSha256": "8da721fc71718bf356edd3c167260711ccf815a8893e0386f29fa1921423e444"
+    },
+    {
+      "category": "props",
+      "id": "highland-cliff",
+      "file": "props/highland-cliff.glb",
+      "bytes": 12368,
+      "sha256": "a75a167669bc0b054a676ce6005067e4d32da44980f78a48d4fc6223f60e8664",
+      "bounds": [
+        [
+          -7.53804349899292,
+          0.0,
+          -4.791957855224609
+        ],
+        [
+          7.5686163902282715,
+          19.93743324279785,
+          3.0336556434631348
+        ]
+      ],
+      "usage": "15m wide faceted gray granite crag; entirely outside the driving envelope",
+      "source": "build-highland-props.py"
+    },
+    {
+      "category": "props",
+      "id": "highland-lodge",
+      "file": "props/highland-lodge.glb",
+      "bytes": 31332,
+      "sha256": "76cda407e0a9d5ea9f7e9bab8cb4c5d3b07ee1813ed94d223d406fa3d889c695",
+      "bounds": [
+        [
+          -7.5,
+          0.0,
+          -6.0
+        ],
+        [
+          7.5,
+          10.635000228881836,
+          6.925000190734863
+        ]
+      ],
+      "usage": "15m stone lodge with terracotta gable roof and timber porch; +Z entrance",
+      "source": "build-highland-props.py"
+    }
+  ]
+}
